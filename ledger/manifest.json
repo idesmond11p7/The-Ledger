@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-10-24T11:31:53.346Z",
+  "documentCount": 8,
+  "entries": [
+    {
+      "id": "chapter_08_the_architecture_of_waiting",
+      "title": "Chapter 8 — The Architecture of Waiting",
+      "type": "chapter",
+      "status": "ready",
+      "filePath": "ledger/records/chapter/chapter_08_the_architecture_of_waiting.md",
+      "createdAt": "2026-10-24T04:08:00.000Z",
+      "updatedAt": "2026-10-24T04:21:08.000Z",
+      "tags": [
+        "chapter-8",
+        "ira-lowe",
+        "kuoh",
+        "dossier-investigation",
+        "apocrypha-dxd"
+      ],
+      "source": "Apocrypha DXD: Dragon × Deus — Forever by TheScribbleScript (Authoritative Chapter Dump)",
+      "relatedDocIds": [
+        "chapter_07_the_examination"
+      ],
+      "charCount": 32571
+    },
+    {
+      "id": "chapter_07_the_examination",
+      "title": "Chapter Seven — The Examination",
+      "type": "chapter",
+      "status": "ready",
+      "filePath": "ledger/records/chapter/chapter_07_the_examination.md",
+      "createdAt": "2026-10-24T04:07:00.000Z",
+      "updatedAt": "2026-10-24T04:21:07.000Z",
+      "tags": [
+        "chapter-7",
+        "ira-lowe",
+        "kuoh-academy",
+        "entrance-exam",
+        "apocrypha-dxd"
+      ],
+      "source": "Apocrypha DXD: Dragon × Deus — Forever by TheScribbleScript (Authoritative Chapter Dump)",
+      "relatedDocIds": [
+        "chapter_06_the_mechanics_of_morning",
+        "chapter_08_the_architecture_of_waiting"
+      ],
+      "charCount": 14013
+    },
+    {
+      "id": "chapter_06_the_mechanics_of_morning",
+      "title": "Chapter 6: The Mechanics of Morning",
+      "type": "chapter",
+      "status": "ready",
+      "filePath": "ledger/records/chapter/chapter_06_the_mechanics_of_morning.md",
+      "createdAt": "2026-10-24T04:06:00.000Z",
+      "updatedAt": "2026-10-24T04:21:06.000Z",
+      "tags": [
+        "chapter-6",
+        "ira-lowe",
+        "kuoh-academy",
+        "sona-sitri-cameo",
+        "entrance-exam",
+        "apocrypha-dxd"
+      ],
+      "source": "Apocrypha DXD: Dragon × Deus — Forever by TheScribbleScript (Authoritative Chapter Dump)",
+      "relatedDocIds": [
+        "chapter_05_a_second_morning",
+        "chapter_07_the_examination"
+      ],
+      "charCount": 35491
+    },
+    {
+      "id": "chapter_05_a_second_morning",
+      "title": "Chapter Five — A Second Morning",
+      "type": "chapter",
+      "status": "ready",
+      "filePath": "ledger/records/chapter/chapter_05_a_second_morning.md",
+      "createdAt": "2026-10-24T04:05:00.000Z",
+      "updatedAt": "2026-10-24T04:21:05.000Z",
+      "tags": [
+        "chapter-5",
+        "ira-lowe",
+        "jonah-laurence",
+        "kuoh-academy",
+        "apocrypha-dxd"
+      ],
+      "source": "Apocrypha DXD: Dragon × Deus — Forever by TheScribbleScript (Authoritative Chapter Dump)",
+      "relatedDocIds": [
+        "chapter_04_beyond",
+        "chapter_06_the_mechanics_of_morning"
+      ],
+      "charCount": 27894
+    },
+    {
+      "id": "chapter_04_beyond",
+      "title": "Chapter 4 — Beyond",
+      "type": "chapter",
+      "status": "ready",
+      "filePath": "ledger/records/chapter/chapter_04_beyond.md",
+      "createdAt": "2026-10-24T04:04:00.000Z",
+      "updatedAt": "2026-10-24T04:21:04.000Z",
+      "tags": [
+        "chapter-4",
+        "jonah-laurence",
+        "ira-lowe",
+        "ur-verse",
+        "transmigration",
+        "apocrypha-dxd"
+      ],
+      "source": "Apocrypha DXD: Dragon × Deus — Forever by TheScribbleScript (Authoritative Chapter Dump)",
+      "relatedDocIds": [
+        "chapter_03_maybe_tomorrow",
+        "chapter_05_a_second_morning"
+      ],
+      "charCount": 15234
+    },
+    {
+      "id": "chapter_03_maybe_tomorrow",
+      "title": "Chapter 3 — Maybe Tomorrow",
+      "type": "chapter",
+      "status": "ready",
+      "filePath": "ledger/records/chapter/chapter_03_maybe_tomorrow.md",
+      "createdAt": "2026-10-24T04:03:00.000Z",
+      "updatedAt": "2026-10-24T04:21:03.000Z",
+      "tags": [
+        "chapter-3",
+        "jonah-laurence",
+        "daniel",
+        "prologue-arc",
+        "inciting-incident",
+        "apocrypha-dxd"
+      ],
+      "source": "Apocrypha DXD: Dragon × Deus — Forever by TheScribbleScript (Authoritative Chapter Dump)",
+      "relatedDocIds": [
+        "chapter_02_the_fracture",
+        "chapter_04_beyond"
+      ],
+      "charCount": 20443
+    },
+    {
+      "id": "chapter_02_the_fracture",
+      "title": "Chapter Two — The Fracture",
+      "type": "chapter",
+      "status": "ready",
+      "filePath": "ledger/records/chapter/chapter_02_the_fracture.md",
+      "createdAt": "2026-10-24T04:02:00.000Z",
+      "updatedAt": "2026-10-24T04:21:02.000Z",
+      "tags": [
+        "chapter-2",
+        "jonah-laurence",
+        "daniel",
+        "maya",
+        "prologue-arc",
+        "apocrypha-dxd"
+      ],
+      "source": "Apocrypha DXD: Dragon × Deus — Forever by TheScribbleScript (Authoritative Chapter Dump)",
+      "relatedDocIds": [
+        "chapter_01_the_weight_of_normalcy",
+        "chapter_03_maybe_tomorrow"
+      ],
+      "charCount": 11081
+    },
+    {
+      "id": "chapter_01_the_weight_of_normalcy",
+      "title": "Chapter One — The Weight of Normalcy",
+      "type": "chapter",
+      "status": "ready",
+      "filePath": "ledger/records/chapter/chapter_01_the_weight_of_normalcy.md",
+      "createdAt": "2026-10-24T04:01:00.000Z",
+      "updatedAt": "2026-10-24T04:21:01.000Z",
+      "tags": [
+        "chapter-1",
+        "jonah-laurence",
+        "prologue-arc",
+        "apocrypha-dxd"
+      ],
+      "source": "Apocrypha DXD: Dragon × Deus — Forever by TheScribbleScript (Authoritative Chapter Dump)",
+      "relatedDocIds": [
+        "chapter_02_the_fracture"
+      ],
+      "charCount": 12472
+    }
+  ]
+}

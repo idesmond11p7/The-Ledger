@@ -236,9 +236,9 @@ export async function getAllDocuments(dbName: string = DB_NAME): Promise<LedgerD
     }
   };
 
-  for (const d of serverDocs) ingest(d);
   for (const d of idbDocs) ingest(d);
   for (const d of Object.values(walMap)) ingest(d);
+  for (const d of serverDocs) ingest(d);
 
   const reconciled = Array.from(mergedMap.values()).sort(
     (a, b) => new Date(b.updatedAt).getTime() - new Date(a.updatedAt).getTime()
