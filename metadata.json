@@ -1,0 +1,6 @@
+{
+  "name": "The Ledger - Apocrypha DXD: ForeverWorlds",
+  "description": "Persistent writing library, document archive, and receipt provenance system for Apocrypha DXD: ForeverWorlds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
