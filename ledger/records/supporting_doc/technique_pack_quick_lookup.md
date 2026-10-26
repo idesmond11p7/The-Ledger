@@ -38,6 +38,7 @@
 | **Rest & Arrest — Stillness & Suspension** | A pause, wait, held moment, delayed answer, or release needs timing. | Pressure, anchor, duration, change during pause, release. |
 | **Juxtaposition & Collage — Meaning by Collision** | Contrasting scale, register, memory, document, tone, or fragment should create a relation. | Elements, order, collision type, implied relation. |
 | **Cadence Engine — Prose Rhythm & Sonic Texture** | Syntax, sentence span, sound, repetition, or paragraphing should change movement. | Span, syntax, stress, sound, punctuation, grouping. |
+| **Lyric Forge — Lyricism, Refrain, Sound & the Turn** | Lyrical prose or song lyrics need stronger imagery, natural sound, a meaningful refrain, or an emotional turn. | Image, sound, stress, lineation, refrain, turn, compression, singability. |
 | **Glyphcraft — Typography as Narrative Signal** | Visual form, capitalization, punctuation, spacing, or lineation affects interpretation. | Baseline, deviation, salience, rendering, legibility. |
 | **Psycholinguistic Switchboard — Reader Inference & Expectation** | Prediction, causal links, ambiguity, retrieval, or cognitive load need analysis. | Prediction, inference, retrieval, coherence, ambiguity, load. |
 | **Kinetic Syntax — Action & Impact** | Movement, collision, threat, or physical action needs legible sequence and controlled fragmentation. | Initiation, vector, resistance, contact, consequence, attention shift. |
