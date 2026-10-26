@@ -4,7 +4,7 @@
   "title": "Research Receipt — Focalization, Gaps, Montage & Narrative Structure",
   "type": "research",
   "createdAt": "2026-10-26T09:35:00.000Z",
-  "updatedAt": "2026-10-26T09:35:00.000Z",
+  "updatedAt": "2026-10-26T09:47:00.000Z",
   "status": "draft",
   "tags": [
     "research",
@@ -15,9 +15,13 @@
   ],
   "source": "Initial AI-assisted craft research grounded in Ledger Chapters 1–8 and linked external sources. Interpretations and procedures are provisional, not canon decisions.",
   "relatedDocIds": [
+    "technique_pack_wraytracing",
     "technique_pack_camera_eye",
+    "technique_pack_resonance_echo",
     "technique_pack_subtext_lacunae",
-    "technique_pack_juxtaposition_collage"
+    "technique_pack_subtext_ellipsis",
+    "technique_pack_juxtaposition_collage",
+    "chapter_craft_fieldnotes_ch1_8"
   ],
   "metadata": {
     "repositoryPath": "ledger/records/research/research_receipt_literary_narrative_methods.md",
