@@ -45,6 +45,7 @@ These packs are working methods for analyzing, designing, testing, and revising 
 - **Rest & Arrest — Stillness & Suspension:** control waiting, pauses, held moments, and release.
 - **Juxtaposition & Collage — Meaning by Collision:** create meaning through contrasts between scale, register, time, voice, or fragment.
 - **Cadence Engine — Prose Rhythm & Sonic Texture:** shape syntax, stress, sentence motion, repetition, and sound.
+- **Lyric Forge — Lyricism, Refrain, Sound & the Turn:** develop lyrical prose and song lyrics through image, sound, lineation, refrain, and emotional turn.
 - **Glyphcraft — Typography as Narrative Signal:** use punctuation, lineation, capitalization, and spacing intentionally.
 - **Psycholinguistic Switchboard — Reader Inference & Expectation:** examine prediction, memory, coherence, ambiguity, and cognitive load without pretending to control every reader.
 - **Kinetic Syntax — Action & Impact:** manage physical sequence, attention narrowing, sonic beats, and fragmentation.
