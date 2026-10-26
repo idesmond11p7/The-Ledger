@@ -4,7 +4,7 @@
   "title": "Craft Engine — Technique Pack Index & Use Protocol",
   "type": "supporting_doc",
   "createdAt": "2026-10-26T09:35:00.000Z",
-  "updatedAt": "2026-10-26T09:35:00.000Z",
+  "updatedAt": "2026-10-26T09:45:00.000Z",
   "status": "draft",
   "tags": [
     "technique-pack",
@@ -41,7 +41,8 @@ These packs are working methods for analyzing, designing, testing, and revising 
 - **Wraytracing — Light Mechanics for Prose & Poetry:** make light physically and narratively consequential.
 - **The Camera Eye — Focalization & Attention:** control perceptual access, attention, interpretation, and uncertainty.
 - **Resonance & Echo — Motifs That Change:** make recurrence alter meaning rather than merely repeat.
-- **Subtext & Lacunae — The Productive Gap:** use implication, omission, silence, and inference without destroying coherence.
+- **Subtext & Lacunae — Silence, Shadow Stories & Narrative Gaps:** examine implied meaning and gaps that may remain unresolved.
+- **Subtext & Ellipsis — Omitted Language, Time & Meaning:** distinguish omitted words, conversational fragments, skipped intervals, and missing event steps.
 - **Rest & Arrest — Stillness & Suspension:** control waiting, pauses, held moments, and release.
 - **Juxtaposition & Collage — Meaning by Collision:** create meaning through contrasts between scale, register, time, voice, or fragment.
 - **Cadence Engine — Prose Rhythm & Sonic Texture:** shape syntax, stress, sentence motion, repetition, and sound.
