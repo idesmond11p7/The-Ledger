@@ -4,7 +4,7 @@
   "title": "Research Receipt — Psycholinguistics, Cadence & Typography",
   "type": "research",
   "createdAt": "2026-10-26T09:35:00.000Z",
-  "updatedAt": "2026-10-26T09:35:00.000Z",
+  "updatedAt": "2026-10-26T09:47:00.000Z",
   "status": "draft",
   "tags": [
     "research",
@@ -18,7 +18,9 @@
     "technique_pack_cadence_engine",
     "technique_pack_glyphcraft",
     "technique_pack_psycholinguistic_switchboard",
-    "technique_pack_rest_arrest"
+    "technique_pack_rest_arrest",
+    "technique_pack_lyric_forge",
+    "chapter_craft_fieldnotes_ch1_8"
   ],
   "metadata": {
     "repositoryPath": "ledger/records/research/research_receipt_psycholinguistics_rhythm_typography.md",
