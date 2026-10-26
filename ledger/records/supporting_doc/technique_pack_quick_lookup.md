@@ -4,7 +4,7 @@
   "title": "Technique Pack Names — Quick Lookup",
   "type": "supporting_doc",
   "createdAt": "2026-10-26T09:38:00.000Z",
-  "updatedAt": "2026-10-26T09:45:00.000Z",
+  "updatedAt": "2026-10-26T09:47:00.000Z",
   "status": "draft",
   "tags": [
     "technique-pack",
@@ -15,8 +15,18 @@
   "source": "Initial AI-assisted craft research grounded in Ledger Chapters 1–8 and linked external sources. Interpretations and procedures are provisional, not canon decisions.",
   "relatedDocIds": [
     "technique_pack_index_craft_engine",
-    "research_receipt_literary_narrative_methods",
-    "research_receipt_psycholinguistics_rhythm_typography"
+    "technique_pack_wraytracing",
+    "technique_pack_camera_eye",
+    "technique_pack_resonance_echo",
+    "technique_pack_subtext_lacunae",
+    "technique_pack_subtext_ellipsis",
+    "technique_pack_rest_arrest",
+    "technique_pack_juxtaposition_collage",
+    "technique_pack_cadence_engine",
+    "technique_pack_glyphcraft",
+    "technique_pack_psycholinguistic_switchboard",
+    "technique_pack_kinetic_syntax",
+    "technique_pack_lyric_forge"
   ],
   "metadata": {
     "repositoryPath": "ledger/records/supporting_doc/technique_pack_quick_lookup.md",
