@@ -45,6 +45,21 @@ For a significant lighting beat, ask:
 
 This is a compositional checklist, not a physics simulator. Use plausible optical relations unless the text deliberately presents an uncanny perception.
 
+## Physical mechanics palette
+
+Use these as a vocabulary of cause and effect, not as a demand to explain physics in every passage.
+
+- **Direct propagation:** in ordinary scenes, light can be planned as rays traveling from a source. Ask what lies along the path and what blocks it.
+- **Specular reflection:** a smooth surface can produce a directional glint or recognizable reflection; rough surfaces scatter light across many directions.
+- **Refraction:** light changes direction as it passes between media, which can shift apparent position or distort an image.
+- **Scattering:** particles, mist, dust, smoke, or rough surfaces redirect light; visible shafts require something in the path to scatter it toward the observer.
+- **Absorption and color:** a surface's visible color depends on the light reaching it and the wavelengths it reflects or absorbs. Color descriptions should remain sensitive to the illumination.
+- **Occlusion and shadow:** a body blocks some light. Edge sharpness depends on source size, distance, and geometry; a shadow's position must make sense relative to the source and surface unless it is intentionally uncanny.
+- **Contrast and adaptation:** a bright source against darkness can hide nearby detail; after looking at a bright source, the observer's perception may temporarily change. Use the viewpoint's actual experience rather than treating the eye as a perfect camera.
+- **Gravitational lensing:** massive objects can curve spacetime and distort paths of light. Near a black hole, the visible glow comes from surrounding matter such as a hot accretion disk, not from light escaping the black hole itself.
+
+A physical model can support a lyrical passage without making the prose a science lecture. Pick the one interaction that carries the scene's purpose; do not list all the mechanics.
+
 ## Ledger evidence
 
 - **Chapter 4:** stars, nebulae, an accretion disk, bent starlight, and the pale sphere translate cosmic scale into visible relations. These are Jonah's perceptions, not objective cosmology.
