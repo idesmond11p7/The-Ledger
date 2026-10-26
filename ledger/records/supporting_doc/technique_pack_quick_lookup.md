@@ -4,7 +4,7 @@
   "title": "Technique Pack Names — Quick Lookup",
   "type": "supporting_doc",
   "createdAt": "2026-10-26T09:38:00.000Z",
-  "updatedAt": "2026-10-26T09:38:00.000Z",
+  "updatedAt": "2026-10-26T09:45:00.000Z",
   "status": "draft",
   "tags": [
     "technique-pack",
@@ -34,7 +34,8 @@
 | **Wraytracing — Light Mechanics for Prose & Poetry** | Light, shadow, reflection, visibility, color, or luminous imagery must do narrative work. | Source, path, medium, surface, observer, reveal/conceal. |
 | **The Camera Eye — Focalization & Attention** | The viewpoint notices, knows, misunderstands, or cannot see something. | Position, attention, resolution, interpretation, access boundary. |
 | **Resonance & Echo — Motifs That Change** | Images, objects, phrases, sounds, or actions should gain meaning across returns. | Introduction, recognition, variation, reinterpretation, payoff. |
-| **Subtext & Lacunae — The Productive Gap** | Implication, omission, silence, uncertainty, or inference matters. | Knowledge distribution, omission reason, cue strength, ambiguity. |
+| **Subtext & Lacunae — Narrative Gaps** | Implied meaning, silence, shadow stories, or an unresolved gap matters. | Knowledge distribution, implication, cue strength, open versus recoverable gap. |
+| **Subtext & Ellipsis — Omitted Language, Time & Meaning** | A line, utterance, transition, interval, or event step is omitted. | Omission scale, recoverability, conversational function, pacing, causal clarity. |
 | **Rest & Arrest — Stillness & Suspension** | A pause, wait, held moment, delayed answer, or release needs timing. | Pressure, anchor, duration, change during pause, release. |
 | **Juxtaposition & Collage — Meaning by Collision** | Contrasting scale, register, memory, document, tone, or fragment should create a relation. | Elements, order, collision type, implied relation. |
 | **Cadence Engine — Prose Rhythm & Sonic Texture** | Syntax, sentence span, sound, repetition, or paragraphing should change movement. | Span, syntax, stress, sound, punctuation, grouping. |
