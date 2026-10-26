@@ -1,10 +1,10 @@
 ---LEDGER_META_START---
 {
   "id": "technique_pack_subtext_lacunae",
-  "title": "Subtext & Lacunae — Ellipsis, Silence & the Productive Gap",
+  "title": "Subtext & Lacunae — Silence, Shadow Stories & Narrative Gaps",
   "type": "supporting_doc",
   "createdAt": "2026-10-26T09:35:00.000Z",
-  "updatedAt": "2026-10-26T09:35:00.000Z",
+  "updatedAt": "2026-10-26T09:45:00.000Z",
   "status": "draft",
   "tags": [
     "technique-pack",
@@ -33,7 +33,7 @@
 ---LEDGER_META_END---
 # Subtext & Lacunae — Ellipsis, Silence & the Productive Gap
 
-**Subtext** is meaning communicated indirectly through what a character says, does, avoids, misreads, or leaves unsaid. **Ellipsis** is omission of words, transitions, events, explanations, or intervals. A **lacuna** is a gap in the available account. These concepts overlap, but are not interchangeable. A silence is not automatically meaningful, and a gap need not conceal a single answer.
+**Subtext** is meaning communicated indirectly through what a character says, does, avoids, misreads, or leaves unsaid. A **lacuna** is a gap in the available account. This pack focuses on implied meaning and gaps in what the narrative makes available. For omitted words, unfinished utterances, skipped intervals, and ellipsis as a distinct operation, use **Subtext & Ellipsis**. A silence is not automatically meaningful, and a gap need not conceal a single answer.
 
 ## Three gap modes
 
