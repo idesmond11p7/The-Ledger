@@ -68,6 +68,18 @@ https://www.sciencedirect.com/science/article/pii/S1389041719304656
 
 The paper represents operations such as scene, pause, ellipsis, iterative narration, focalization, and narrative order. These are useful analytical operations, not a universal recipe for good prose.
 
+## Physical image mechanics for Wraytracing
+
+**OpenStax, “16.1 Reflection,” Physics.**  
+https://openstax.org/books/physics/pages/16-1-reflection
+
+This source describes direct propagation, reflection from smooth surfaces, and diffuse reflection from rough surfaces. It supports a causal vocabulary for literary light description: source, path, surface, and direction.
+
+**NASA, “Anatomy of a Black Hole.”**  
+https://science.nasa.gov/universe/black-holes/anatomy/
+
+NASA explains that visible light associated with a black hole commonly comes from surrounding hot matter in an accretion disk; gravity can bend light paths and produce gravitational lensing. This is directly relevant to Chapter 4's black-hole imagery. The prose may remain lyrical, but should not imply that light escapes from inside the event horizon.
+
 ## Application to the Ledger
 
 - Chapter 1 limits visual access while remembered room geometry sustains spatial expectation.
