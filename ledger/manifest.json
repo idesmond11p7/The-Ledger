@@ -1,8 +1,32 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-24T11:31:53.346Z",
-  "documentCount": 8,
+  "updatedAt": "2026-10-27T16:40:00.000Z",
+  "documentCount": 9,
   "entries": [
+    {
+      "id": "chapter_08_architecture_of_waiting_reconstruction_prompt_20261027_v1",
+      "title": "Chapter 8 — The Architecture of Waiting: Reconstruction Prompt v1",
+      "type": "supporting_doc",
+      "status": "draft",
+      "filePath": "ledger/records/supporting_doc/chapter_08_architecture_of_waiting_reconstruction_prompt_20261027_v1.md",
+      "createdAt": "2026-10-27T16:40:00.000Z",
+      "updatedAt": "2026-10-27T16:40:00.000Z",
+      "tags": [
+        "chapter-8",
+        "writing-prompt",
+        "reconstruction",
+        "ira-lowe",
+        "prose-engine",
+        "apocrypha-dxd",
+        "ur-verse"
+      ],
+      "source": "User-supplied Chapter 8 working draft and explicit project continuity constraints",
+      "relatedDocIds": [
+        "chapter_07_the_examination",
+        "chapter_08_the_architecture_of_waiting"
+      ],
+      "charCount": 49900
+    },
     {
       "id": "chapter_08_the_architecture_of_waiting",
       "title": "Chapter 8 — The Architecture of Waiting",
