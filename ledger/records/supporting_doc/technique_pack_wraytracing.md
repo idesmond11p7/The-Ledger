@@ -86,3 +86,112 @@ Remove the color adjectives. Does light still do something? Then remove the ligh
 ## Research connection
 
 Use Jahn's [“Focalization”](https://www.cambridge.org/core/books/abs/cambridge-companion-to-narrative/focalization/4292F5EB30ACFBB54BD1F8D4A920BED5) to keep visual information tied to a perspective. The light model is a practical craft synthesis, not a result directly validated by that source.
+
+
+## Author clarification: relational rendering and reader-first perception
+
+This section records an author-provided expansion of the framework. It extends the current draft; it does not promote the pack to canon or claim scientific validation.
+
+### Scope of the pack
+
+Wraytracing is a specialized, cross-disciplinary technique pack, not a synonym for “good description” and not a replacement for foundational craft. Its domain is perceptual rendering through light and its interactions with bodies, surfaces, atmosphere, space, and attention. It can combine physically grounded observation with poetry, lyricism, allegory, pulp immediacy, dense but selective information, subtext, juxtaposition, typography, and arrest/rest. Those fundamentals and stylistic resources remain distinct tools that the pack coordinates for a particular effect.
+
+### Governing idea: render relations, not isolated objects
+
+The aim is not to tell the reader that a scene is bright, dark, beautiful, or realistic. The aim is to let the reader mentally construct what light is doing and understand what its effects mean.
+
+Light is relational. It makes surfaces legible, changes apparent depth, creates or erases edges, reveals material differences, conceals other information, redirects attention, and changes how a body or place is perceived. A face does not become realistic because its anatomy is itemized. Its presence can emerge through the changing relations among posture, expression, movement, surrounding light, nearby surfaces, distance, and the observer's attention.
+
+A scene can be visually vivid while remaining informationally thin. A compact sentence can create a rich mental simulation if it gives the reader a consequential interaction and enough grounded evidence to infer the rest. Density is not length; vividness is not adjective count.
+
+### Reader-first rendering and character focalization
+
+A scene is not required to enter through the protagonist's explicit sensory report (“I saw,” “I heard,” “I felt”). The prose can first establish an event in the environment, then render the event's effects, and only then show the viewpoint character noticing, interpreting, or reacting to them.
+
+A useful, flexible sequence is:
+
+**World event → physical consequence → reader-accessible evidence → character attention/interpretation → decision or changed understanding.**
+
+- An environmental event may precede the character's recognition of it.
+- Sensory evidence can be given without naming the sense explicitly.
+- The reader may infer a source before the character does, or remain as uncertain as the character.
+- The character's body and attention still constrain the available information. Reader-first rendering does not license an omniscient camera inside first-person narration.
+- Do not make every event trigger a spoken or internal explanatory sentence. Let the event and its consequences carry information.
+- The world should not feel dependent on the protagonist's explicit attention to exist. Environmental activity can continue beyond the character's immediate focus, provided the narration has a plausible route to that information.
+
+A game player's direct control and audiovisual feedback cannot be copied literally into prose. Translate the *function* of environmental feedback, movement, framing, and discovery instead of mechanically imitating a HUD.
+
+### Light as characterization and environmental storytelling
+
+Light can characterize without becoming a decorative spotlight. Consider what it does to the thing it touches:
+
+- expose wear, moisture, dust, fingerprints, scratches, fabric grain, or uneven skin texture;
+- separate a moving body from a background, or merge that body into it;
+- make a surface appear clean while revealing grime at an oblique angle;
+- conceal the eyes while making a jaw, hand, shoulder, or posture unusually legible;
+- connect distant objects through a shared reflection, shadow, or change in illumination;
+- create a contradiction between a reassuring visible surface and evidence that surface accidentally reveals.
+
+A body should be rendered as a moving, situated presence, not an anatomical inventory. Select details whose interaction changes the reader's sense of intention, confidence, fatigue, vulnerability, social role, or immediate action. No single body feature has a universal meaning.
+
+Environmental details become story-bearing when the reader can infer use, history, danger, social activity, or spatial relationships from them. Light should participate in that inference rather than simply beautify the set.
+
+### Word bias and mental simulation
+
+Words are not interchangeable labels. Their connotations, implied forces, sound patterns, syntax, and contextual associations influence the scene a reader is likely to imagine.
+
+For example, “folded,” “curled,” “braced,” and “clenched” describe different configurations and imply different degrees of force, intention, and readiness. Their effects are contextual, not universal. Do not build a scene from a thesaurus or claim that a word has one fixed psychological result.
+
+When choosing a word, ask:
+- What physical arrangement does it make imaginable?
+- What force or movement does it imply?
+- What intention might the reader infer, and is that inference wanted?
+- What does it make salient, and what does it push into the background?
+- Does the surrounding sentence confirm, complicate, or overturn its initial connotation?
+
+Juxtaposition can create meaning without explanation: place grounded observations beside one another and let their relation create an inference. Subtext requires enough evidence for the intended implication to be recoverable; without a fair path to the inference, the result may be confusion rather than subtlety.
+
+### Transferable relational rendering
+
+The pack's central discipline can inform other sensory and spatial work, but that does not mean every sensory technique becomes Wraytracing or a separate pack. Preserve the difference between the pack's primary domain and useful analogies.
+
+For sound, ask what event produces it, how it travels or is obstructed, what surfaces or spaces alter it, what remains audible, and what the sound changes in the listener's spatial understanding. For movement, track initiation, direction, resistance, contact, consequence, and the attention shift that follows. These are adjacent applications of relational scene construction, not claims that acoustics and mechanics are literally optical ray tracing.
+
+### Expanded application procedure
+
+1. Identify the passage's purpose: orientation, beauty, concealment, scale, clue, mood, characterization, or transition.
+2. Establish the physical event or environmental relation before selecting decorative language.
+3. Identify the relevant source and interaction. Use the ray model where light materially contributes.
+4. Decide what the reader should be able to construct or infer before the viewpoint character reacts.
+5. Select a few consequential details. Let them imply secondary information instead of describing every surface.
+6. Ground the relation in geometry: position, direction, distance, obstruction, motion, and material.
+7. Use syntax, cadence, juxtaposition, subtext, typography, and arrest/rest where they serve the effect; do not force every device into every paragraph.
+8. Return the effect to consequence: changed attention, spatial clarity, emotional pressure, inference, or action.
+9. Check whether the character could perceive the information from their actual position and state.
+10. Revise details that are vivid but inert, physically contradictory, redundant, or too explicit about an inference the reader can already make.
+
+### Additional failure modes
+
+- The narration reports every sensory event as “I saw/heard/felt,” making the environment feel dependent on explicit protagonist commentary.
+- The reader receives information with no plausible route into the chosen viewpoint.
+- Body description becomes an anatomical report detached from action, intention, light, or environment.
+- Dense description accumulates facts but produces no coherent spatial or emotional simulation.
+- Poetic language obscures the physical event instead of intensifying it.
+- Juxtaposition implies a conclusion the reader has not been given enough evidence to make.
+- The method is applied as a rigid checklist rather than adapted to the scene's purpose.
+
+### Additional diagnostic tests
+
+**Reader-model test:** After the passage, what can the reader picture, locate, infer, or anticipate that they could not before?
+
+**Viewpoint test:** Can the selected perspective plausibly receive each piece of information?
+
+**Compression test:** Can one consequential interaction replace several redundant descriptive sentences without losing a needed inference?
+
+**Consequence test:** Does the rendering change attention, interpretation, action, or emotional pressure? If not, determine whether the detail is intentionally atmospheric or merely inert.
+
+### Research and validation status
+
+The existing Ledger chapter examples remain evidence to inspect, not proof that every principle in this draft has already been demonstrated successfully. The light model is a practical craft synthesis, not a result directly validated by one academic source. The reader-first and word-bias procedures combine the project author's framework with general narratological and perceptual reasoning; their exact effects must be tested in prose.
+
+**Status remains Draft / initial research.** Evaluate the pack through controlled snippets: hold the scene facts constant, vary the rendering choices, and compare spatial coherence, inference, vividness, character presence, pacing, and unwanted over-description.
