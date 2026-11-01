@@ -63,3 +63,33 @@ Use techniques only where they serve the scene. Reject overclinical prose, buzzw
 
 ## Status
 ONGOING — do not close, restart, or treat as a separate task. Update this record as evidence and decisions arrive.
+
+
+
+## 2026-11-01 — Artifact recovery and provenance boundary
+
+The author confirms that a newer completed Chapter 8 exists. The currently inspected Ledger records do not yet identify that exact manuscript. Preserve the author's statement as a source-recovery requirement; do not infer nonexistence from the current tree.
+
+### Verified artifacts
+| Artifact | Date/status | What it is | Source boundary |
+|---|---|---|---|
+| `ledger/records/chapter/chapter_08_the_architecture_of_waiting.md` | Oct 24 / ready | Earlier dossier-investigation manuscript | Not established as newest |
+| `ledger/records/chapter/chapter_08_architecture_of_waiting_redraft_20261026_v1.md` | Oct 26 / draft | Full prose redraft retaining the dossier-investigation direction | Not established as newest |
+| `ledger/records/supporting_doc/chapter_08_architecture_of_waiting_reconstruction_prompt_20261027_v1.md` | Oct 27 / draft | Reconstruction prompt for a materially different direction | Prompt, not manuscript |
+| Library `Chapter_8_Draft_Source_Full.txt` | Oct 10 | Older manuscript/source package | Not the sought newer version |
+| Library `Pasted text(4).txt` | Oct 26 | Chapter 9 author brief | Not Chapter 8 prose |
+
+The Oct 27 reconstruction prompt describes Wednesday activity, Kissa Minami, Kenji, and a Thursday delivery errand. Treat these as instructions/proposed Chapter 8 direction only until a completed manuscript confirms what was actually written.
+
+### Lorekeeper documentation assignment
+The author explicitly recalls assigning Lorekeeper to document the newer Chapter 8 after its creation. The current visible Lorekeeper tree does not expose a completed Chapter 8 documentation record. This historical assignment remains to be verified against the relevant Lorekeeper workspace/output; do not dismiss it merely because Ledger owns chapter manuscripts and receipts. Ledger should preserve the eventual Lorekeeper documentation as a sourced cross-reference, while keeping its own chapter text, chronology, craft, and provenance records.
+
+### Current status
+- Newest completed Chapter 8 identity: UNKNOWN in the currently inspected repository/library sources.
+- October 24 and October 26 Ledger manuscripts: recovered, but not confirmed current.
+- October 27 reconstruction prompt: recovered, not a manuscript.
+- Chapter 9 author brief: recovered; active milestones remain ONGOING.
+- Writer reassessment: STALE until the newest completed Chapter 8 is identified and read.
+- Chapter 9 opening bridge: unresolved until that source is checked.
+
+Do not overwrite older Chapter 8 versions. Preserve all historical artifacts and update this record when the actual current manuscript and Lorekeeper documentation are recovered.
