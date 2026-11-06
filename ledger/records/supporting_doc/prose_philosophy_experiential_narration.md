@@ -267,5 +267,6 @@ Consult the individual technique packs and chapter fieldnotes for their detailed
 - `technique_pack_lyric_forge.md`
 - `technique_pack_rest_arrest.md`
 - `chapter_craft_fieldnotes_ch1_8.md`
+- `technique_embodied_metacognitive_duration.md` — working synthesis of how embodied perception, selective attention, metacognitive adjustment, and emotional residue can make first-person narrative time feel inhabited. Coined project terminology, not an established scientific term.
 
 This synthesis organizes the shared philosophy. It does not supersede the source packs, chapter texts, chronology records, or psychology receipts.
