@@ -93,3 +93,27 @@ The author explicitly recalls assigning Lorekeeper to document the newer Chapter
 - Chapter 9 opening bridge: unresolved until that source is checked.
 
 Do not overwrite older Chapter 8 versions. Preserve all historical artifacts and update this record when the actual current manuscript and Lorekeeper documentation are recovered.
+
+
+## 2026-11-07 — Workflow correction and Step 3 prose authority
+
+### Character-concept clarification
+Names or characters used by the Circulator as examples are illustrative only unless explicitly approved. In particular, **“Mimi” was an example, not a proposed or approved Chapter 9 character**. Do not carry that name into the cast, prompts, or canon. The Circulator must derive the actual character concepts and narrative functions from the verified Chapter 1–8 continuity and the Chapter 9 event architecture. The Character Psychologist then develops the supplied concepts in depth: psychology, ego, motivations, behavioural patterns, voice, expression, movement, and social behaviour. Do not mistake illustrative examples in a handoff for author decisions.
+
+### Step 3 — Circulator owns prose direction
+At final synthesis and Writer handoff, the Circulator is explicitly responsible for directing and locking the chapter's prose execution. This includes:
+- the narrative hook and opening grip;
+- tone and tonal movement;
+- genre experience and the balance of adventure, mystery, horror, and grounded everyday life;
+- prose direction, narrative distance, POV discipline, and pacing;
+- prose-poetry balance, imagery density, cadence, sentence rhythm, and literary feel;
+- how and where visual, acoustic, spatial, psychological, and action-rendering techniques are deployed;
+- readability, emotional credibility, and the chapter's distinctive narrative texture.
+
+The Psychologist advises on character psychology and voice; the Lorekeeper advises on supernatural/world design. Neither specialist owns or may silently determine the chapter's overall prose style. The Writer executes the final prose brief. The Circulator integrates the specialist findings, makes the prose-direction decisions, and supplies explicit, testable instructions to the Writer. The user remains final authority.
+
+### Ledger operating procedure
+The Ledger is the GitHub repository **https://github.com/idesmond11p7/The-Ledger**, branch `main`. The Circulator must use the available GitHub connection to inspect current records and write verified updates directly to the repository. A repository write is complete only after the connector reports a successful commit; never claim that a record was saved based only on drafting it in chat. Preserve existing records and provenance; do not overwrite historical chapter versions or silently replace unresolved source identity.
+
+### Current workflow state
+Step 0 remains in progress until the Circulator has rechecked the relevant project workflow and source material, built a source-grounded Chapter 9 architecture and character-concept brief, prepared the consolidated production plan, and verified its Ledger commit. The prior chat response's declaration that Step 0 was complete was premature. Do not start Step 1 until the user explicitly advances the workflow.
