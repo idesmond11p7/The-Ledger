@@ -117,3 +117,38 @@ The Ledger is the GitHub repository **https://github.com/idesmond11p7/The-Ledger
 
 ### Current workflow state
 Step 0 remains in progress until the Circulator has rechecked the relevant project workflow and source material, built a source-grounded Chapter 9 architecture and character-concept brief, prepared the consolidated production plan, and verified its Ledger commit. The prior chat response's declaration that Step 0 was complete was premature. Do not start Step 1 until the user explicitly advances the workflow.
+
+
+## 2026-11-07 — Chapter 9 logic repair v2 / current Chapter 8 source boundary
+
+### Correction to source interpretation
+The October 24 "ready" Chapter 8 file in Ledger is not established as the newest authoritative manuscript. The author has explicitly stated that a newer completed Chapter 8 exists. The author's latest project context identifies a canal-footbridge accident, an involuntary kinetic anchor / grip manifestation that deforms steel, and a Kuoh Academy crest on freight or municipal paperwork. These are to be treated as author-confirmed Chapter 8 handoff facts pending recovery of the exact manuscript path, version, and full text. Do not use the older Ledger file to deny or overwrite them. Do not quote the newer manuscript until it has been retrieved and read.
+
+The Lorekeeper repository currently exposes the Chapter 9 limited intake but no completed Chapter 8 lore-documentation record. The assigned Chapter 8 documentation task therefore remains outstanding. The intake explicitly says not to substitute older sources or summaries for the newer completed manuscript.
+
+### Logic repair record
+A new supporting document was created:
+`ledger/records/supporting_doc/chapter_09_logic_repair_v2_20261107.md`
+
+It resolves the current planning-level issues:
+- Chapter 9 must open from the actual newest Chapter 8 ending and use the actual friend / errand bridge; no invented name or unexplained contact.
+- The older Chapter 8 library-directory objective must not be reused unless the newest manuscript confirms it.
+- If Chapter 8's kinetic manifestation is present, Chapter 9 must carry its immediate bodily / psychological aftermath without giving Ira control of the Power or adding a convenient second activation.
+- The freight / Kuoh crest clue remains a quiet unresolved anomaly, not a second investigation plot.
+- Kuoh traversal must deepen established geography, use a coherent route, and avoid repeating Chapters 5–6 or forcing every proposed landmark into one path.
+- The cat incident must include an active responsible adult, an ordinary reason for the cat to bolt, and a bounded reason for Ira to follow.
+- The forest crossing is gradual and locally depicted; the general mechanism remains unresolved.
+- The stalking threat uses a consistent local signature without taxonomy overclaims.
+- The house, cat trail, upper floor, fall, escape, and tooth-necklace snag must be physically reconstructable.
+- The necklace remains attached to Ira as physical residue and a Chapter 10 continuity anchor; no magical properties are assumed.
+- The cat's fate and the child's situation must not silently disappear; the current working resolution is that Ira loses the trail during the boundary / house incident and escapes without a confirmed rescue, with the consequence carried into Chapter 10.
+- The chapter remains primarily first-person Ira. The requested errand and void cutscenes are bounded heteroperspective / cinematic exceptions, not uncontrolled head-hopping.
+- The purple reflection remains the final cliffhanger image; the home transition is handled as a deliberate discontinuity into Chapter 10, not an invented conventional journey.
+
+### Status after audit
+- Chapter 1–7 Ledger manuscripts: inspected for continuity and chronology.
+- Current Ledger Chapter 8: inspected, but explicitly not treated as the newest authority.
+- Newest completed Chapter 8 identity: still UNKNOWN in accessible Ledger / Lorekeeper repository records; author-confirmed newer content is preserved above.
+- Chapter 9 logic repair: recorded in v2 supporting document.
+- Chapter 9 character concepts: not yet finalized; derive them from the actual newest Chapter 8 and repaired event architecture.
+- Step 0: IN PROGRESS. Do not begin Step 1 until the user explicitly advances the workflow.
