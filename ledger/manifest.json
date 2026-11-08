@@ -1,8 +1,33 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-27T16:40:00.000Z",
-  "documentCount": 9,
+  "updatedAt": "2026-11-08T10:59:00+01:00",
+  "documentCount": 10,
   "entries": [
+    {
+      "id": "chapter_09_current_published_material_20261108",
+      "title": "Chapter 9 — Current Published Material",
+      "type": "chapter",
+      "status": "published-current",
+      "filePath": "ledger/records/chapter/chapter_09_current_published_material_20261108.md",
+      "createdAt": "2026-11-08T10:59:00+01:00",
+      "updatedAt": "2026-11-08T10:59:00+01:00",
+      "tags": [
+        "chapter-9",
+        "ira-lowe",
+        "kuoh",
+        "north-basin",
+        "astral-boundary",
+        "cat-incident",
+        "apocrypha-dxd",
+        "ur-verse"
+      ],
+      "source": "Assistant-generated Chapter 9 prose, supplied by the author in this conversation as current published material; preserve verbatim.",
+      "relatedDocIds": [
+        "chapter_08_the_architecture_of_waiting",
+        "chapter_07_the_examination"
+      ],
+      "charCount": 20973
+    },
     {
       "id": "chapter_08_architecture_of_waiting_reconstruction_prompt_20261027_v1",
       "title": "Chapter 8 — The Architecture of Waiting: Reconstruction Prompt v1",
