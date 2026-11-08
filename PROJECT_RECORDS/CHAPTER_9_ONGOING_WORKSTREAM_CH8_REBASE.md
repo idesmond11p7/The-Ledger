@@ -152,3 +152,19 @@ It resolves the current planning-level issues:
 - Chapter 9 logic repair: recorded in v2 supporting document.
 - Chapter 9 character concepts: not yet finalized; derive them from the actual newest Chapter 8 and repaired event architecture.
 - Step 0: IN PROGRESS. Do not begin Step 1 until the user explicitly advances the workflow.
+
+
+## 2026-11-08 — Current published Chapter 9 captured
+
+The author supplied the current published Chapter 9 material in the active conversation and explicitly identified it as assistant-generated prose already published for now. It has been preserved verbatim as:
+- `ledger/records/chapter/chapter_09_current_published_material_20261108.md` (Ledger chapter record; includes provenance metadata and publication boundary).
+- `chapters/chapter_09_current_published_material_20261108.md` (Writer source copy).
+- Writer's `data/ledger-chapters.json` now contains Chapter 9 as chapterNumber 9, status `published-current`.
+- `ledger/manifest.json` now registers the Chapter 9 record.
+
+The supplied text ends at the standalone word **“I”** after Ira reaches the abandoned house and begins considering the open door. That is the exact supplied publication boundary; no continuation has been invented or appended. Preserve this material as published source, not a draft to be silently revised.
+
+No Chapter 9 continuity repair has been applied. Its opening identifies Kenji as someone Ira encountered at school shoe lockers and assigns him a framing-shop errand involving replacement clamps. These are now recorded as features of the published text; their relationship to the authoritative Chapter 8 ending remains to be assessed from source text, not presumed resolved.
+
+### Next work requested by the author
+Prepare a full, story-shaped reconstruction of Chapters 1–8, grounded in the actual chapter texts and attentive to lived events, relationships, emotional movement, and continuity. Do not reduce this to disconnected chapter synopses. The newest published Chapter 8 source identity must be settled before presenting the eight-chapter account as fully verified.
