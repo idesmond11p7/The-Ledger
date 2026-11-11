@@ -224,3 +224,41 @@ The Chapter 9 opening fails review if a reader cannot answer: **What did Ira dec
 - Chapter 8 acquaintance identity: **PENDING exact authoritative-source check**.
 - Errand specifics: **OPEN**, to be designed around the corrected motivation and the actual acquaintance.
 - Prior mixed-motive explanation and next-day chronology: **SUPERSEDED**.
+
+
+## 2026-11-11 — OPERATIVE REBASE / ACTIVE RULES
+
+This section is the current execution authority for Chapter 9. It supersedes contradictory earlier sections of this workstream and all older receipts or plans where they conflict. Historical text remains in the repository for provenance; it is not an active instruction.
+
+### Governing causal handoff
+Ira accepts the errand because Chapter 8 leaves him trying to get himself together, confront procrastination, and stop letting fear or anticipated failure decide what he attempts. The errand is the first concrete opportunity to act on that resolve. The acquaintance supplies the opportunity, not the primary motive. Do not substitute usefulness, inclusion, curiosity, altruism, or friendliness as the central reason.
+
+### Chronology
+Chapters 7, 8, and 9 occur on the same day, by explicit author correction on 2026-11-11. All next-day / Wednesday chronology is retired. Chapter 7's Friday registered-post result remains pending.
+
+### Acquaintance candidate
+Use the first/inquiring teenage boy from the Chapter 8 café scene as the current candidate: he apologises after misidentifying Ira, asks whether Ira lives nearby, and handles Ira's awkward answer without making it a confrontation. This is a friendly new acquaintance, not an established close friend. Develop his character rather than asking the author to choose from people already present in the source. An energetic / hyped-up manner is a proposal to develop, not a Chapter 8 fact. The second boy is his companion, not the primary candidate.
+
+### Errand
+The exact errand and destination remain open. It must be modest, credible for a new acquaintance, and provide a natural reason for Ira to traverse Kuoh. It must directly intersect with Ira's resolve. The school-locker / Kenji / clamps / framing-shop setup is not operative unless a verified Chapter 8 source establishes it.
+
+### Information-control rule
+Do not allow a stale receipt, character dossier, summary, or assistant-generated inference to override:
+1. explicit author correction;
+2. the original Chapter 9 author brief;
+3. the actual Chapter 8 text;
+4. only then, derived planning documents.
+
+When two project artifacts disagree, identify the conflict and mark the dependent plan stale. Do not silently choose the file whose status label looks most authoritative. Do not use unresolved publication provenance to erase a clear author instruction or avoid making a delegated, reversible planning decision.
+
+### Required pre-draft check
+Before any Writer handoff, verify:
+- why Ira accepts;
+- who asks him;
+- what the request is;
+- why the request is plausible;
+- same-day chronology;
+- how the request leads into the 3–4-hour Kuoh traversal;
+- how the cat event follows after the errand is completed.
+
+The opening fails if it cannot show that Ira accepts this specific errand as the first practical test of his Chapter 8 resolve.
