@@ -1,7 +1,9 @@
 # LEDGER RECORD — CHAPTER 9 ONGOING WORKSTREAM / CHAPTER 8 REBASE
 [STATUS: ONGOING]
-[UPDATED: 2026-11-01]
+[UPDATED: 2026-11-11]
 [PROJECT: Apocrypha DXD: ForeverWorlds]
+
+> **CURRENT-STATE OVERRIDE — 2026-11-11:** The initial status and earlier dated sections below are retained as history, not current instructions. The operative rules are in the final dated section, **2026-11-11 — OPERATIVE REBASE / ACTIVE RULES**, and in `ledger/records/supporting_doc/chapter_09_causal_handoff_rules_20261111.md`. Ira's acceptance motive is his Chapter 8 resolve to stop procrastinating and stop letting fear decide what he attempts; Chapters 7–9 occur on the same day; the first/inquiring café boy is the selected acquaintance candidate. Do not revive the older next-day chronology, mixed-motive explanation, or Kenji/school-locker bridge.
 
 ## Purpose
 Record the ongoing Chapter 9 production-preparation workstream and the required rebase of the Writer's initial Chapters 1–8 assessment against the newest authoritative Chapter 8 manuscript.
