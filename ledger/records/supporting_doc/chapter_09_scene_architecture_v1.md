@@ -1,3 +1,7 @@
+> **SUPERSESSION NOTICE — 2026-11-11:** This v1 architecture contains stale assumptions that are no longer operative. The “mixed” acceptance motive (curiosity, usefulness, inclusion, pride) and “following day / Wednesday” chronology are superseded. Ira accepts because the errand is the first concrete opportunity to act on his Chapter 8 resolve to stop procrastinating and stop letting fear decide what he attempts. Chapters 7, 8, and 9 occur on the same day, per explicit author correction. See `chapter_09_causal_handoff_rules_20261111.md`. Preserve the remainder as historical planning material; do not execute superseded clauses.
+
+---
+
 ---
 # Chapter 9 — Scene Architecture & Writer Handoff
 **Project:** Apocrypha DXD: ForeverWorlds  
