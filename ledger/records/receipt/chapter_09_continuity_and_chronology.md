@@ -1,43 +1,54 @@
+> **SUPERSESSION NOTICE — 2026-11-11:** This receipt's original next-day chronology, “friendship not established” obstruction, directory-plan carryover, and proposed Chapter 8 source hierarchy are superseded. The author explicitly establishes that Chapters 7, 8, and 9 occur on the same day and that Ira accepts the errand because he is acting on his Chapter 8 resolve to stop procrastinating and stop letting fear decide what he attempts. The first/inquiring teenage boy from the Chapter 8 café interaction is the selected Chapter 9 acquaintance candidate for planning. See `ledger/records/supporting_doc/chapter_09_causal_handoff_rules_20261111.md`. The historical v1 receipt is replaced below by the operative v2 rules; preserve the prior wording in Git history.
+
 # Chapter 9 Receipt: Continuity and Chronology
 
-**Status:** Working receipt v1  
-**Primary sources:** Ledger ready Chapters 6–8 and their chronology / psychology receipts; user-provided Chapter 9 event outline.
+**Status:** Operative working receipt v2, author-corrected 2026-11-11  
+**Authority:** Explicit author correction + Chapter 9 author brief + recovered Chapter 8 café interaction
 
-## Established
+## Governing chronology
 
-- Chapter 7 ends Tuesday evening with Ira at home beside the kettle. Its exact final line is: “For the first time since morning, I had nothing I needed to do.”
-- Chapter 7 says the examination result will be dispatched by registered post Friday morning.
-- The ready Chapter 8 continues from that line and takes place during the same evening.
-- Chapter 8 establishes Ira's worry about an educational history he cannot personally explain.
-- Chapter 8 establishes his new rule: “Think ahead. Pay attention. Stop walking into things unprepared.”
-- Chapter 8 ends with Ira copying the Kanagawa Prefectural Educational Development Association's Minami-Kuoh Annex address and telephone number, marking its general location on a paper map, and planning to check a library or municipal information desk the next day.
-- The ready Chapter 8 contains a brief interaction with two teenagers at the café. Neither exchanges names or contact details with Ira. They are acquaintances at most, not established friends.
-- Chapter 6 establishes Kuoh Academy on elevated ground, affluent residential streets, commercial streets, Kuoh Station, Local/Rapid train distinction, shopfronts, greengrocer, bicycle repair shop, bakery, and park.
+- Chapters 7, 8, and 9 occur on the same day. This is an explicit author correction and overrides older next-day / Wednesday plans.
+- Chapter 7's Friday-morning registered-post result remains pending.
+- Chapter 9's intended in-world duration is approximately 3–4 hours, as stated in the Chapter 9 author brief.
+- Do not insert an unapproved date, next-day transition, or results delivery.
 
-## Working chronology for Chapter 9
+## Chapter 8 psychological handoff
 
-- Chapter 9 begins the following day, provisionally Wednesday.
-- The exact calendar date and year are not established in the ready Chapter 7–8 sources. Do not print one.
-- The result remains expected Friday morning.
-- The chapter's 3–4 hour duration comes from the user's Chapter 9 event outline.
-- Keep Chapter 9 within the following day's daytime / afternoon window unless a stronger chronology source establishes otherwise.
+- Chapter 8 leaves Ira trying to get himself together and stop allowing procrastination, fear, and anticipated failure to decide what he attempts.
+- His resolve is imperfect. He knows the difference between imagining improvement and following through once the initial energy fades.
+- Chapter 9's errand is the first practical test of this resolve.
+- The acquaintance's request creates the opportunity; it is not the primary motive for accepting.
+- The reader must be able to connect Ira's private resolve to his outward decision without an explanatory speech.
 
-## Continuity conflict
+## Acquaintance
 
-The Chapter 9 outline says the errand comes from a new friend made in Chapter 8. The current ready Chapter 8 source does not establish that friendship. It shows a short café interaction with two teenagers, without names or contact exchange.
+- Use the first/inquiring teenage boy from the Chapter 8 café interaction as the current planning candidate.
+- He notices Ira, apologises for misidentifying him, asks whether he lives nearby, and handles Ira's awkward answer without humiliating him.
+- His behaviour supports a friendly, low-friction new acquaintance. It does not establish a close friendship, name, contact channel, or prior promise.
+- The user has delegated the detailed character concept to the Circulator. Develop the character from the observed interaction; do not ask the user to select a person already identifiable in the source.
+- An energetic / hyped-up manner is a proposed development direction, not a fact established by the Chapter 8 text.
+- The second boy is the companion in the café scene, not the primary candidate.
 
-**Required repair:** either amend Chapter 8 with a small, natural recognition/contact bridge, or make Chapter 9 explicitly earn the relationship before calling the boy a friend. The least disruptive solution is a short bridge involving the first café teenager: preserve the existing interaction, then add a small, natural exchange that gives Ira a name and a legitimate reason to recognize or contact him. Do not retrofit a deep friendship or make the boy suddenly intimate with Ira. If Chapter 8 is not amended, Chapter 9 must call him an acquaintance, not a friend.
+## Errand and route
 
-For this plan, the reversible assumption is that the first café teenager returns as an acquaintance and develops into a friend during Chapter 9. Keep his name unset until the continuity patch or a user-approved character source supplies it. Do not invent a proper name in the Writer draft.
+- The errand must be modest, credible, and offered by the selected acquaintance.
+- Its function is to give Ira an immediate opportunity to act on his Chapter 8 resolve and to create a natural route through Kuoh.
+- The exact errand, destination, and route remain design decisions. Do not silently canonize an exploratory message-delivery proposal.
+- Do not use the school-locker / Kenji / replacement-clamps / framing-shop setup unless an authoritative source explicitly establishes it.
+- The Chapter 9 event outline still governs the broad experience: Kuoh traversal, navigation growth, social/environmental encounters, the cat incident, unwitting boundary crossing, stalking threats, house/void sequence, accidental tooth-necklace snag, escape, and purple reflection.
 
-## Chapter 8 source conflict that must not be silently imported
+## Source and version discipline
 
-The ready Chapter 8 source is titled **The Architecture of Waiting** and ends with the Minami-Kuoh directory plan. A separate redraft and older planning materials refer to **The Logistics of Waiting**, a canal-footbridge incident, the Power manifestation, and a Kuoh Academy crest on rail paperwork. Those events are absent from the current ready Chapter 8 file. Do not assume they occurred in the Chapter 9 continuity unless the chapter source is updated.
+- Recovered Chapter 8 texts include the same café interaction with two teenage boys. The exact newest completed/published manuscript provenance remains to be reconciled.
+- Do not use uncertainty about publication status as an excuse to discard the author's explicit psychological cause, same-day chronology, or delegated acquaintance-selection task.
+- Do not treat the older next-day receipts or alternative Chapter 8 directions as current where they conflict with the author correction.
+- Preserve historical files. Supersede their active instructions rather than silently rewriting source manuscripts.
 
-## Required Writer checks
+## Required acceptance checks
 
-1. Connect Chapter 9 to the ready Chapter 8 ending.
-2. Preserve the next-day directory/map intention or give Ira a clear reason to defer it.
-3. Do not invent the Friday result or an exact date.
-4. Do not describe the café teenagers as established friends unless the bridge is written.
-5. Do not import the alternate Chapter 8 footbridge / Power event without an explicit source update.
+1. The opening shows Ira accepting because he wants to act on his Chapter 8 resolve, not because friendliness alone compels him.
+2. Chapters 7–9 remain on the same day.
+3. The acquaintance is the first/inquiring café boy unless a verified newer Chapter 8 source directly contradicts that selection.
+4. The relationship remains a new acquaintance; do not fabricate a close friendship.
+5. The errand is modest, credible, and causally linked to the Kuoh traversal.
+6. The Friday result remains pending.
