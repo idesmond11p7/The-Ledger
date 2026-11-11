@@ -111,3 +111,14 @@ If not, the opening fails, regardless of how plausible the errand or polished th
 - Replacing the author's motive with a generic mixed-motive explanation.
 - Treating a stale summary or character dossier as a substitute for the chapter.
 - Filling unresolved details with invented continuity and presenting them as source facts.
+
+
+## 2026-11-11 — Published Chapter 9 opening audit
+
+The preserved current-published Chapter 9 artifact (`ledger/records/chapter/chapter_09_current_published_material_20261108.md`) opens with a parcel for two replacement clamps and explains Ira's acceptance as: “That was why I had agreed.” It then identifies Kenji as a person who approached Ira at school shoe lockers “yesterday.” This opening is incompatible with the governing Chapter 9 author instructions:
+
+- It uses a next-day / “yesterday” setup despite the explicit same-day correction.
+- It uses a school-locker acquaintance and Kenji/clamps/framing-shop errand rather than the selected Chapter 8 café acquaintance.
+- It does not make Ira's Chapter 8 resolve to stop procrastinating and stop letting fear decide what he attempts the cause of acceptance.
+
+**Disposition:** preserve the 2026-11-08 artifact verbatim as the published snapshot. Do not silently edit or delete published text. Mark its opening as superseded for the next revision/replacement pass. The next Writer version must rebuild the opening from the governing causal handoff rules and same-day chronology. The later city/forest sequence remains subject to a separate scene-by-scene audit; this opening diagnosis does not automatically invalidate every later beat.
