@@ -1,3 +1,7 @@
+> **SUPERSESSION NOTICE — 2026-11-11:** This document's original motivation and chronology guidance is superseded where it conflicts with chapter_09_causal_handoff_rules_20261111.md and the 2026-11-11 author correction. In particular, the old “mixed reasons” explanation (usefulness, inclusion, curiosity) is not the primary cause of Ira accepting the errand, and the “next day” chronology is invalid. Ira accepts because the mission is the first concrete opportunity to act on his Chapter 8 resolve to stop procrastinating and stop letting fear decide what he attempts. Chapters 7, 8, and 9 occur on the same day. Preserve this document as historical planning evidence; do not use superseded clauses as current instructions.
+
+---
+
 # Chapter 9 — Logic Repair & Causal Architecture v2
 
 **Project:** Apocrypha DXD: ForeverWorlds  
