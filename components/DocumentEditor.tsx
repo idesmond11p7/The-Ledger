@@ -22,6 +22,7 @@ import {
   Check,
   ChevronDown,
   ChevronUp,
+  ArrowLeft,
 } from 'lucide-react';
 
 interface DocumentEditorProps {
@@ -32,6 +33,7 @@ interface DocumentEditorProps {
   onDelete: (id: string) => Promise<void>;
   isDirty: boolean;
   setIsDirty: (dirty: boolean) => void;
+  onBack?: () => void;
 }
 
 export function DocumentEditor({
@@ -42,6 +44,7 @@ export function DocumentEditor({
   onDelete,
   isDirty,
   setIsDirty,
+  onBack,
 }: DocumentEditorProps) {
   // Local edit states initialized directly from doc prop (Component is keyed by doc.id)
   const [title, setTitle] = useState(doc?.title ?? '');
@@ -319,9 +322,20 @@ ${body}`;
   return (
     <div className="flex-1 flex flex-col h-full bg-neutral-900 overflow-hidden text-neutral-200">
       {/* Top Toolbar */}
-      <div className="border-b border-neutral-800 bg-neutral-900/90 px-6 py-3 flex items-center justify-between gap-4">
-        {/* Document Type Selector & Status */}
-        <div className="flex items-center gap-3">
+      <div className="border-b border-neutral-800 bg-neutral-900/90 px-3 md:px-6 py-2.5 md:py-3 flex flex-wrap items-center justify-between gap-2.5">
+        {/* Left: Mobile Back button, Type Selector & Status */}
+        <div className="flex items-center gap-2 md:gap-3 flex-wrap">
+          {onBack && (
+            <button
+              onClick={onBack}
+              className="flex md:hidden items-center gap-1 px-2 py-1 text-xs text-neutral-300 hover:text-white bg-neutral-800 hover:bg-neutral-700 rounded transition"
+              aria-label="Back to document index"
+            >
+              <ArrowLeft className="w-3.5 h-3.5" />
+              <span>Back</span>
+            </button>
+          )}
+
           <select
             value={type}
             onChange={(e) => handleTypeChange(e.target.value as DocumentType)}
@@ -337,36 +351,36 @@ ${body}`;
           {/* Persistence status indicator */}
           <div className="flex items-center gap-1.5 text-xs">
             {saveError ? (
-              <span className="text-rose-400 flex items-center gap-1 font-mono text-[11px]">
+              <span className="text-rose-400 flex items-center gap-1 font-mono text-[10px] md:text-[11px]">
                 <span className="w-1.5 h-1.5 rounded-full bg-rose-400" />
                 {saveError}
               </span>
             ) : isSaving ? (
-              <span className="text-amber-400 flex items-center gap-1 font-mono text-[11px]">
+              <span className="text-amber-400 flex items-center gap-1 font-mono text-[10px] md:text-[11px]">
                 <span className="w-2 h-2 rounded-full bg-amber-400 animate-ping" />
-                Syncing to Disk & IndexedDB...
+                Syncing...
               </span>
             ) : isDirty ? (
-              <span className="text-amber-400/90 flex items-center gap-1 font-mono text-[11px]">
+              <span className="text-amber-400/90 flex items-center gap-1 font-mono text-[10px] md:text-[11px]">
                 <span className="w-1.5 h-1.5 rounded-full bg-amber-400" />
-                Buffered in WAL (Auto-saving...)
+                Buffered in WAL
               </span>
             ) : saveSuccessNotice ? (
-              <span className="text-emerald-400 flex items-center gap-1 font-mono text-[11px]">
+              <span className="text-emerald-400 flex items-center gap-1 font-mono text-[10px] md:text-[11px]">
                 <Check className="w-3.5 h-3.5" />
-                Persisted (Disk + IndexedDB)
+                Persisted
               </span>
             ) : (
-              <span className="text-neutral-500 flex items-center gap-1 font-mono text-[11px]">
+              <span className="text-neutral-500 flex items-center gap-1 font-mono text-[10px] md:text-[11px]">
                 <span className="w-1.5 h-1.5 rounded-full bg-emerald-500/60" />
-                Persisted (Disk + IndexedDB)
+                Persisted
               </span>
             )}
           </div>
         </div>
 
-        {/* Action Buttons */}
-        <div className="flex items-center gap-2">
+        {/* Right: Action Buttons */}
+        <div className="flex items-center gap-1.5 md:gap-2 ml-auto">
           <button
             onClick={() => setShowMetadataPanel(!showMetadataPanel)}
             className={`flex items-center gap-1 px-2.5 py-1 text-xs rounded border transition ${
@@ -375,7 +389,8 @@ ${body}`;
                 : 'bg-neutral-900 border-neutral-800 text-neutral-400 hover:text-neutral-200'
             }`}
           >
-            <span>Record Details</span>
+            <span className="hidden sm:inline">Record Details</span>
+            <span className="sm:hidden">Details</span>
             {showMetadataPanel ? <ChevronUp className="w-3.5 h-3.5" /> : <ChevronDown className="w-3.5 h-3.5" />}
           </button>
 
@@ -384,7 +399,7 @@ ${body}`;
             title="Export as Markdown"
             className="p-1.5 text-neutral-400 hover:text-neutral-200 hover:bg-neutral-800 rounded border border-neutral-800 transition"
           >
-            <Download className="w-4 h-4" />
+            <Download className="w-3.5 h-3.5 md:w-4 md:h-4" />
           </button>
 
           <button
@@ -392,7 +407,7 @@ ${body}`;
             title="Delete Document"
             className="p-1.5 text-neutral-400 hover:text-rose-400 hover:bg-neutral-800 rounded border border-neutral-800 transition"
           >
-            <Trash2 className="w-4 h-4" />
+            <Trash2 className="w-3.5 h-3.5 md:w-4 md:h-4" />
           </button>
 
           <button
@@ -405,7 +420,7 @@ ${body}`;
             }`}
           >
             <Save className="w-3.5 h-3.5" />
-            <span>{isSaving ? 'Saving...' : 'Save Now'}</span>
+            <span>{isSaving ? 'Saving...' : 'Save'}</span>
           </button>
         </div>
       </div>
@@ -618,38 +633,38 @@ ${body}`;
       )}
 
       {/* Document Title Input */}
-      <div className="px-6 pt-4 pb-2">
+      <div className="px-3 md:px-6 pt-3 md:pt-4 pb-2">
         <input
           type="text"
           value={title}
           onChange={(e) => handleTitleChange(e.target.value)}
           placeholder="Document Title..."
-          className="w-full bg-transparent text-xl font-bold tracking-tight text-neutral-100 placeholder:text-neutral-600 focus:outline-hidden"
+          className="w-full bg-transparent text-lg md:text-xl font-bold tracking-tight text-neutral-100 placeholder:text-neutral-600 focus:outline-hidden"
         />
       </div>
 
       {/* Raw Body Text Editor (High Fidelity, strictly preserving Unicode, spacing, formatting) */}
-      <div className="flex-1 px-6 pb-4 flex flex-col min-h-0">
+      <div className="flex-1 px-3 md:px-6 pb-3 md:pb-4 flex flex-col min-h-0">
         <textarea
           value={body}
           onChange={(e) => handleBodyChange(e.target.value)}
           placeholder="Enter raw text here... All Unicode, symbols, emoticons, multiple spaces, and line breaks are strictly preserved."
-          className="w-full flex-1 bg-neutral-950 border border-neutral-800 rounded-md p-4 text-xs font-mono text-neutral-200 placeholder:text-neutral-600 focus:outline-hidden focus:border-neutral-700 resize-none leading-relaxed overflow-y-auto selection:bg-indigo-700 selection:text-white"
+          className="w-full flex-1 bg-neutral-950 border border-neutral-800 rounded-md p-3 md:p-4 text-xs font-mono text-neutral-200 placeholder:text-neutral-600 focus:outline-hidden focus:border-neutral-700 resize-none leading-relaxed overflow-y-auto selection:bg-indigo-700 selection:text-white"
           spellCheck={false}
         />
       </div>
 
       {/* Editor Status Bar */}
-      <div className="px-6 py-2 border-t border-neutral-800 bg-neutral-950 text-[11px] text-neutral-500 flex items-center justify-between font-mono">
-        <div className="flex items-center gap-4">
+      <div className="px-3 md:px-6 py-2 border-t border-neutral-800 bg-neutral-950 text-[10px] md:text-[11px] text-neutral-500 flex flex-wrap items-center justify-between gap-2 font-mono">
+        <div className="flex items-center gap-2 md:gap-4">
           <span>{wordCount} words</span>
-          <span>{charCount} characters</span>
+          <span>{charCount} chars</span>
           <span>{lineCount} lines</span>
         </div>
         <div className="flex items-center gap-2">
-          <span>UTF-8 Verbatim</span>
+          <span>UTF-8</span>
           <span>•</span>
-          <span>Ctrl/Cmd+S to save</span>
+          <span>Ctrl/Cmd+S</span>
         </div>
       </div>
     </div>

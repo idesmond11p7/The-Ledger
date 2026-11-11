@@ -25,6 +25,8 @@ interface SidebarProps {
   onOpenTestModal: () => void;
   onOpenImportExport: () => void;
   counts: Record<FilterCategory, number>;
+  isOpen?: boolean;
+  onClose?: () => void;
 }
 
 export function Sidebar({
@@ -34,6 +36,8 @@ export function Sidebar({
   onOpenTestModal,
   onOpenImportExport,
   counts,
+  isOpen = false,
+  onClose,
 }: SidebarProps) {
   const navItems: { id: FilterCategory; label: string; icon: React.ReactNode }[] = [
     { id: 'all', label: 'All Documents', icon: <BookOpen className="w-4 h-4" /> },
@@ -46,30 +50,60 @@ export function Sidebar({
   ];
 
   return (
-    <aside className="w-64 bg-neutral-900 border-r border-neutral-800 flex flex-col h-full select-none text-neutral-300">
-      {/* Brand Header */}
-      <div className="p-4 border-b border-neutral-800">
-        <div className="flex items-center gap-2">
-          <div className="w-7 h-7 rounded bg-indigo-600 flex items-center justify-center text-white font-bold text-xs tracking-wider">
-            TL
-          </div>
-          <div>
-            <h1 className="text-sm font-semibold tracking-tight text-neutral-100">The Ledger</h1>
-            <p className="text-[10px] text-neutral-400 truncate max-w-[170px]" title="Apocrypha DXD: ForeverWorlds">
-              Apocrypha DXD: ForeverWorlds
-            </p>
-          </div>
-        </div>
+    <>
+      {/* Mobile Backdrop Overlay */}
+      {isOpen && (
+        <div
+          onClick={onClose}
+          className="fixed inset-0 z-40 bg-black/60 backdrop-blur-xs md:hidden transition-opacity"
+          aria-hidden="true"
+        />
+      )}
 
-        {/* Create Document Button */}
-        <button
-          onClick={() => onCreateNew()}
-          className="mt-3.5 w-full flex items-center justify-center gap-1.5 px-3 py-2 bg-indigo-600 hover:bg-indigo-500 text-white rounded text-xs font-medium shadow-xs transition"
-        >
-          <Plus className="w-4 h-4" />
-          <span>New Document</span>
-        </button>
-      </div>
+      <aside
+        className={`fixed inset-y-0 left-0 z-50 md:static md:z-auto w-72 md:w-60 lg:w-64 bg-neutral-900 border-r border-neutral-800 flex flex-col h-full select-none text-neutral-300 transition-transform duration-200 ease-in-out ${
+          isOpen ? 'translate-x-0 shadow-2xl' : '-translate-x-full md:translate-x-0'
+        }`}
+      >
+        {/* Brand Header */}
+        <div className="p-4 border-b border-neutral-800">
+          <div className="flex items-center justify-between">
+            <div className="flex items-center gap-2">
+              <div className="w-7 h-7 rounded bg-indigo-600 flex items-center justify-center text-white font-bold text-xs tracking-wider">
+                TL
+              </div>
+              <div>
+                <h1 className="text-sm font-semibold tracking-tight text-neutral-100">The Ledger</h1>
+                <p className="text-[10px] text-neutral-400 truncate max-w-[150px]" title="Apocrypha DXD: ForeverWorlds">
+                  Apocrypha DXD: ForeverWorlds
+                </p>
+              </div>
+            </div>
+
+            {/* Mobile Close Button */}
+            {onClose && (
+              <button
+                onClick={onClose}
+                className="p-1.5 md:hidden text-neutral-400 hover:text-neutral-100 hover:bg-neutral-800 rounded transition"
+                aria-label="Close sidebar"
+              >
+                <span className="text-lg leading-none">&times;</span>
+              </button>
+            )}
+          </div>
+
+          {/* Create Document Button */}
+          <button
+            onClick={() => {
+              onCreateNew();
+              if (onClose) onClose();
+            }}
+            className="mt-3.5 w-full flex items-center justify-center gap-1.5 px-3 py-2 bg-indigo-600 hover:bg-indigo-500 text-white rounded text-xs font-medium shadow-xs transition"
+          >
+            <Plus className="w-4 h-4" />
+            <span>New Document</span>
+          </button>
+        </div>
 
       {/* Navigation Filter List */}
       <div className="flex-1 overflow-y-auto px-2 py-3 space-y-0.5">
@@ -83,7 +117,10 @@ export function Sidebar({
           return (
             <button
               key={item.id}
-              onClick={() => onSelectCategory(item.id)}
+              onClick={() => {
+                onSelectCategory(item.id);
+                if (onClose) onClose();
+              }}
               className={`w-full flex items-center justify-between px-2.5 py-1.5 rounded text-xs transition ${
                 isActive
                   ? 'bg-neutral-800 text-neutral-100 font-medium'
@@ -123,7 +160,10 @@ export function Sidebar({
         {/* Verification & Backup tools */}
         <div className="grid grid-cols-2 gap-1.5 pt-1">
           <button
-            onClick={onOpenTestModal}
+            onClick={() => {
+              onOpenTestModal();
+              if (onClose) onClose();
+            }}
             title="Run Acceptance Tests A-H on real storage"
             className="flex items-center justify-center gap-1 px-2 py-1.5 bg-neutral-800 hover:bg-neutral-700 text-neutral-200 rounded text-[11px] transition"
           >
@@ -131,7 +171,10 @@ export function Sidebar({
             <span>Verify (A–H)</span>
           </button>
           <button
-            onClick={onOpenImportExport}
+            onClick={() => {
+              onOpenImportExport();
+              if (onClose) onClose();
+            }}
             title="Import or Export Ledger records"
             className="flex items-center justify-center gap-1 px-2 py-1.5 bg-neutral-800 hover:bg-neutral-700 text-neutral-200 rounded text-[11px] transition"
           >
@@ -141,5 +184,6 @@ export function Sidebar({
         </div>
       </div>
     </aside>
+  </>
   );
 }

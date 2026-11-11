@@ -3,7 +3,7 @@
 import React, { useState, useMemo } from 'react';
 import { LedgerDocument, DocumentType, DOCUMENT_TYPE_LABELS, VERIFICATION_STATUS_LABELS } from '@/lib/db/types';
 import { FilterCategory } from './Sidebar';
-import { Search, Plus, Calendar, Tag, FileText, Receipt, ShieldQuestion, CheckCircle2 } from 'lucide-react';
+import { Search, Plus, Calendar, Tag, FileText, Menu } from 'lucide-react';
 
 interface DocumentListProps {
   documents: LedgerDocument[];
@@ -11,6 +11,8 @@ interface DocumentListProps {
   selectedDocId: string | null;
   onSelectDoc: (id: string) => void;
   onCreateNew: (type?: DocumentType) => void;
+  onOpenSidebar?: () => void;
+  className?: string;
 }
 
 export function DocumentList({
@@ -19,6 +21,8 @@ export function DocumentList({
   selectedDocId,
   onSelectDoc,
   onCreateNew,
+  onOpenSidebar,
+  className = '',
 }: DocumentListProps) {
   const [searchQuery, setSearchQuery] = useState('');
 
@@ -62,16 +66,38 @@ export function DocumentList({
   };
 
   return (
-    <div className="w-80 bg-neutral-950 border-r border-neutral-800 flex flex-col h-full select-none text-neutral-300">
+    <div
+      className={`w-full md:w-72 lg:w-80 bg-neutral-950 border-r border-neutral-800 flex flex-col h-full select-none text-neutral-300 shrink-0 ${className}`}
+    >
       {/* Header & Search */}
       <div className="p-3.5 border-b border-neutral-800 space-y-2.5">
         <div className="flex items-center justify-between">
-          <h2 className="text-xs font-semibold uppercase tracking-wider text-neutral-400">
-            {getCategoryTitle()}
-          </h2>
-          <span className="text-[11px] font-mono text-neutral-500">
-            {filteredDocs.length} of {documents.length}
-          </span>
+          <div className="flex items-center gap-2">
+            {onOpenSidebar && (
+              <button
+                onClick={onOpenSidebar}
+                className="p-1 md:hidden text-neutral-400 hover:text-neutral-100 hover:bg-neutral-800 rounded transition"
+                aria-label="Open sidebar"
+              >
+                <Menu className="w-4 h-4" />
+              </button>
+            )}
+            <h2 className="text-xs font-semibold uppercase tracking-wider text-neutral-400">
+              {getCategoryTitle()}
+            </h2>
+          </div>
+          <div className="flex items-center gap-2">
+            <span className="text-[11px] font-mono text-neutral-500">
+              {filteredDocs.length} of {documents.length}
+            </span>
+            <button
+              onClick={() => onCreateNew(currentCategory === 'all' ? 'chapter' : (currentCategory as DocumentType))}
+              className="p-1 md:hidden text-neutral-400 hover:text-neutral-100 hover:bg-neutral-800 rounded transition"
+              title="Create new document"
+            >
+              <Plus className="w-4 h-4 text-indigo-400" />
+            </button>
+          </div>
         </div>
 
         {/* Search Bar */}

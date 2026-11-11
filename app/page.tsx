@@ -30,6 +30,10 @@ export default function LedgerHome() {
   const [isTestModalOpen, setIsTestModalOpen] = useState(false);
   const [isImportExportOpen, setIsImportExportOpen] = useState(false);
 
+  // Responsive state
+  const [isSidebarOpen, setIsSidebarOpen] = useState(false);
+  const [mobileView, setMobileView] = useState<'list' | 'editor'>('list');
+
   // Load and reconcile documents across Server Disk, IndexedDB, and WAL Mirror
   const refreshDocuments = useCallback(async (selectIdAfterLoad?: string) => {
     try {
@@ -39,10 +43,12 @@ export default function LedgerHome() {
 
       if (selectIdAfterLoad) {
         setSelectedDocId(selectIdAfterLoad);
+        setMobileView('editor');
       } else if (docs.length > 0 && !selectedDocId) {
         setSelectedDocId(docs[0].id);
       } else if (docs.length === 0) {
         setSelectedDocId(null);
+        setMobileView('list');
       }
     } catch (err: any) {
       console.error('Failed to load documents:', err);
@@ -103,13 +109,16 @@ export default function LedgerHome() {
 
   // Navigate between documents (DocumentEditor automatically flushes any pending edits on unmount)
   const handleSelectDoc = (id: string) => {
-    if (id === selectedDocId) return;
-    setIsDirty(false);
-    setSelectedDocId(id);
+    if (id !== selectedDocId) {
+      setIsDirty(false);
+      setSelectedDocId(id);
+    }
+    setMobileView('editor');
   };
 
   const handleSelectCategory = (cat: FilterCategory) => {
     setCurrentCategory(cat);
+    setMobileView('list');
   };
 
   // Create new document (DocumentEditor automatically flushes any pending edits on switch)
@@ -142,6 +151,7 @@ export default function LedgerHome() {
       setIsDirty(false);
       setDocuments((prev) => [newDoc, ...prev.filter((d) => d.id !== newDoc.id)]);
       setSelectedDocId(newDoc.id);
+      setMobileView('editor');
     } catch (err: any) {
       setErrorMessage(`Creation failed: ${err.message}`);
     }
@@ -190,14 +200,17 @@ export default function LedgerHome() {
       const remaining = documents.filter((d) => d.id !== id);
       setDocuments(remaining);
       setSelectedDocId(remaining.length > 0 ? remaining[0].id : null);
+      if (remaining.length === 0) {
+        setMobileView('list');
+      }
     } catch (err: any) {
       setErrorMessage(`Deletion failed: ${err.message}`);
     }
   };
 
   return (
-    <div className="flex h-screen w-screen overflow-hidden bg-neutral-950 font-sans text-neutral-100 antialiased">
-      {/* Sidebar: Navigation & Controls */}
+    <div className="flex h-screen w-screen overflow-hidden bg-neutral-950 font-sans text-neutral-100 antialiased relative">
+      {/* Sidebar: Navigation & Controls (Desktop persistent / Mobile drawer) */}
       <Sidebar
         currentCategory={currentCategory}
         onSelectCategory={handleSelectCategory}
@@ -205,19 +218,27 @@ export default function LedgerHome() {
         onOpenTestModal={() => setIsTestModalOpen(true)}
         onOpenImportExport={() => setIsImportExportOpen(true)}
         counts={counts}
+        isOpen={isSidebarOpen}
+        onClose={() => setIsSidebarOpen(false)}
       />
 
-      {/* Secondary Pane: Document List / Index */}
+      {/* Secondary Pane: Document List / Index (Mobile: shown when mobileView === 'list'; Desktop: always visible md:flex) */}
       <DocumentList
         documents={documents}
         currentCategory={currentCategory}
         selectedDocId={selectedDocId}
         onSelectDoc={handleSelectDoc}
         onCreateNew={handleCreateNew}
+        onOpenSidebar={() => setIsSidebarOpen(true)}
+        className={mobileView === 'editor' ? 'hidden md:flex' : 'flex'}
       />
 
-      {/* Main Pane: Document Editor & Reader */}
-      <main className="flex-1 flex flex-col h-full overflow-hidden bg-neutral-900">
+      {/* Main Pane: Document Editor & Reader (Mobile: shown when mobileView === 'editor'; Desktop: always flex-1) */}
+      <main
+        className={`flex-1 flex flex-col h-full overflow-hidden bg-neutral-900 ${
+          mobileView === 'list' ? 'hidden md:flex' : 'flex'
+        }`}
+      >
         {errorMessage && (
           <div className="p-3 bg-rose-950/80 border-b border-rose-800 text-rose-200 text-xs flex items-center justify-between">
             <div className="flex items-center gap-2">
@@ -248,6 +269,7 @@ export default function LedgerHome() {
             onDelete={handleDeleteDocument}
             isDirty={isDirty}
             setIsDirty={setIsDirty}
+            onBack={() => setMobileView('list')}
           />
         )}
       </main>
