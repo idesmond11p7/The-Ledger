@@ -168,3 +168,59 @@ No Chapter 9 continuity repair has been applied. Its opening identifies Kenji as
 
 ### Next work requested by the author
 Prepare a full, story-shaped reconstruction of Chapters 1–8, grounded in the actual chapter texts and attentive to lived events, relationships, emotional movement, and continuity. Do not reduce this to disconnected chapter synopses. The newest published Chapter 8 source identity must be settled before presenting the eight-chapter account as fully verified.
+
+
+## 2026-11-11 — AUTHOR CORRECTION: CHAPTER 8 PSYCHOLOGICAL CAUSE RESTORED
+
+**Priority:** Governing correction. This section supersedes conflicting Chapter 9 motivation and chronology assumptions in earlier workstream notes and in chapter_09_logic_repair_v2_20261107.md.
+
+### Direct author instruction
+The author has explicitly corrected the Chapter 9 causal handoff:
+- Chapters 7, 8, and 9 occur on the same day. This is the governing chronology. Any older manuscript or planning note that places Chapter 9 on the following day is stale for this work.
+- Ira takes the Chapter 9 mission because of the psychological state established in Chapter 8: he is trying to pull himself together, stop procrastinating, and stop allowing fear to decide what he is willing to attempt.
+- The Chapter 9 author brief independently states: “Ira is Given A Mission/Errand that he ties to his emotional session/ego he had in chap 8 ---> He is motivated to take the errand.” Source: Library artifact Pasted text(4).txt, created 2026-10-26, section “Chapter 9 Drafts and Events”.
+- The mission must therefore function as the first concrete enactment/test of Ira's Chapter 8 resolve. The acquaintance's request creates the opportunity; it is not, by itself, the reason Ira accepts.
+
+### Correct causal chain
+1. Chapter 8 leaves Ira in a specific state of self-reassessment. He recognizes his pattern of retreating, postponing, and protecting his pride by not attempting things.
+2. He forms a limited, imperfect resolve to act despite uncertainty. This is not a cure, a personality transplant, or a claim that fear has disappeared.
+3. A person Ira actually encountered in Chapter 8, who treated him in a friendly manner, offers or asks for a modest errand.
+4. Ira recognizes, consciously or partly instinctively, that accepting gives him a real opportunity to do the thing he has just decided he needs to do: stop postponing action because he might fail, feel awkward, or be uncertain.
+5. He accepts because this opportunity directly intersects with that resolve. He may still hesitate, overthink, or feel socially awkward. The important change is that he proceeds.
+6. The errand then provides the natural structure for the Kuoh traversal and subsequent events.
+
+### What is removed from operative planning
+The following are not valid primary explanations for Ira's acceptance and must not be reused as substitutes:
+- “He wants to be useful” as the central motive.
+- “He wants ordinary inclusion” or social validation as the central motive.
+- “He is curious about the city” as the central motive.
+- “He accepts because a friendly person asks” without the Chapter 8 internal cause.
+- A generic heroic/altruistic impulse.
+- A sudden confidence or fearlessness upgrade.
+- Any next-day chronology.
+- Any Chapter 9 opening based on school lockers, an invented school friendship, or a Kenji/clamps/framing-shop errand unless the actual authoritative Chapter 8 and author-approved brief establish it.
+
+These may only appear as minor secondary textures if supported by the actual scene. They cannot replace the causal spine.
+
+### Acquaintance rule
+Use a real person who appears and interacts with Ira in the authoritative Chapter 8 source, specifically someone whose behaviour toward him is friendly enough to make a modest request plausible. Do not convert a brief friendly acquaintance into an established close friend. Do not invent a new person, contact channel, prior promise, or relationship history to make the errand work. If the current Chapter 8 source cannot yet be retrieved, preserve the role as “Chapter 8 friendly acquaintance — identity pending source verification” rather than selecting a character from a stale variant.
+
+### Same-day continuity rule
+Chapter 9 begins later on the same day as Chapters 7 and 8, as explicitly corrected by the author on 2026-11-11. Do not import the Wednesday/next-day chronology from older Chapter 8 variants or the previous logic-repair draft. Keep the Chapter 7 Friday registered-post result pending.
+
+### Source discipline and supersession
+- The Oct 26 Chapter 9 author brief is a primary author instruction for the intended mission and its motivation.
+- The author's 2026-11-11 correction is controlling where it clarifies or supersedes earlier wording.
+- Older Chapter 8 manuscripts, reconstructions, character dossiers, and planning summaries are not interchangeable. Do not claim one is the published/newest Chapter 8 without exact source confirmation.
+- Do not use uncertainty about manuscript provenance to discard or dilute an explicit author instruction.
+- Preserve historical records. Supersede bad working assumptions; do not delete source history or silently rewrite the user's original material.
+
+### Acceptance test
+The Chapter 9 opening fails review if a reader cannot answer: **What did Ira decide in Chapter 8, and why does this particular errand give him an immediate chance to act on it?** The answer must be present in the causal construction, not supplied by an after-the-fact explanation. The scene must show continuity between his private resolve and his choice to accept.
+
+### Current status
+- Chapter 9 motivation correction: **LOCKED BY AUTHOR**.
+- Same-day chronology correction: **LOCKED BY AUTHOR**.
+- Chapter 8 acquaintance identity: **PENDING exact authoritative-source check**.
+- Errand specifics: **OPEN**, to be designed around the corrected motivation and the actual acquaintance.
+- Prior mixed-motive explanation and next-day chronology: **SUPERSEDED**.
