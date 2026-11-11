@@ -10,22 +10,23 @@
 
 Ira accepts the Chapter 9 mission because of the specific psychological state and resolve established in Chapter 8. He is trying to get himself together, confront his procrastination, and stop allowing fear or anticipated failure to decide what he attempts.
 
-The original Chapter 9 author brief states that Ira is given an errand which he ties to the emotional session/ego he had in Chapter 8, and that this is why he is motivated to take it. This is not optional subtext. It is the causal reason for the decision.
+The original Chapter 9 author brief states that Ira is given an errand which he ties to the emotional session/ego he had in Chapter 8, and that this is why he is motivated to take it. This is not optional subtext. It is the causal reason for the decision. The recovered Chapter 8 text makes the relevant pattern concrete: Ira recognizes that deciding to improve gives him a temporary burst of energy and an appealing imagined future, while the difficult part is following through once that feeling fades and an inconvenience appears. His self-instruction to “Think ahead. Pay attention. Stop walking into things unprepared” is an attempted correction, but it is not proof that the pattern has already changed. Chapter 9's errand is the immediate behavioural test: will he actually act on the resolve instead of leaving it as another internal decision?
 
 The acquaintance is the trigger/opportunity. The Chapter 8 resolve is the motive.
 
 ## 2. Causal sequence
 
-**Chapter 8 self-recognition → limited resolve to act → friendly acquaintance offers a real errand → Ira recognizes an immediate chance to act instead of retreating/postponing → he accepts despite uncertainty → the errand carries him through Kuoh → the adventure/horror sequence unfolds.**
+**Chapter 8 self-recognition of the decision-without-follow-through loop → an imperfect resolve to change his behaviour → friendly acquaintance offers a real errand → Ira treats it as a concrete chance to follow through rather than let the resolve evaporate → he accepts despite uncertainty → the errand carries him through Kuoh → the adventure/horror sequence unfolds.**
 
 Do not reverse this chain. Do not make the acquaintance's friendliness, generic helpfulness, desire for inclusion, altruism, or curiosity the primary cause.
 
 ## 3. Psychological execution
 
-- Ira has not overcome procrastination permanently.
+- Ira has not overcome procrastination permanently. The Chapter 8 text specifically identifies the gap between enjoying the decision to improve and doing the work after the initial energy fades.
+- “Think ahead” is Ira's new, imperfect self-directive. It can make him more deliberate, but it must not be treated as a completed cure or as proof that every later decision is automatically sound.
 - He has not become fearless, socially fluent, confident, or suddenly heroic.
 - He can hesitate and mentally negotiate with himself.
-- The meaningful change is behavioural: he chooses to proceed rather than protect himself through avoidance.
+- The meaningful change is behavioural: instead of letting the new resolve remain another satisfying intention, he follows through on a real opportunity. He chooses to proceed rather than retreat into postponement or self-protective avoidance.
 - The decision should feel like a small but personally significant act, not a grand vow or speech.
 - The reader should understand the connection through the scene's thought/action relationship. Avoid a clumsy explanatory paragraph that repeats Chapter 8.
 
