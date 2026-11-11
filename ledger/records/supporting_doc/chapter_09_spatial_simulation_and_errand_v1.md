@@ -1,3 +1,7 @@
+> **STATUS CORRECTION — 2026-11-11:** The message-delivery errand, the family-obligation explanation, the named shop category, and the proposed route in this v1 record are proposals, not locked canon. The author has not approved these exact errand details. The errand must be designed to give Ira a concrete opportunity to act on his Chapter 8 resolve to overcome procrastination/avoidance. The Chapter 8 acquaintance's identity and exact request must be verified against the authoritative Chapter 8 source. See `chapter_09_causal_handoff_rules_20261111.md`. Preserve this record as exploratory design history.
+
+---
+
 # Chapter 9 — Spatial Simulation & Errand Decision Record
 
 **Status:** Proposed design v1; geography is chapter-specific until confirmed by a canonical Kuoh map.  
