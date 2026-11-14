@@ -275,3 +275,88 @@ The preserved current-published Chapter 9 artifact (`ledger/records/chapter/chap
 - It does not make Ira's Chapter 8 resolve to stop procrastinating and stop letting fear decide what he attempts the cause of acceptance.
 
 **Disposition:** preserve the 2026-11-08 artifact verbatim as the published snapshot. Do not silently edit or delete published text. Mark its opening as superseded for the next revision/replacement pass. The next Writer version must rebuild the opening from the governing causal handoff rules and same-day chronology. The later city/forest sequence remains subject to a separate scene-by-scene audit; this opening diagnosis does not automatically invalidate every later beat.
+
+
+## 2026-11-14 — AUTHOR-APPROVED SETTING AND NAMING REVISION
+
+**Status:** ACTIVE REVISION DIRECTIVE  
+**Authority:** Author-approved naming sheet; Lorekeeper compatibility review pending  
+**Scope:** Setting name, series title, faction/cosmological designations, character names and counterpart roster. This record does not authorize unrequested prose edits or establish unresolved alternatives as settled.
+
+### Core identity
+- Current title: **ForeverWorlds: Endless Apocrypha**
+- Current setting designation: **Soma**
+- Protagonist identity: **Jonah Laurence / Ira Lowe** (same character; preserve identity continuity)
+
+The previous project label, *Apocrypha DXD: ForeverWorlds*, remains historical/provenance metadata and must not be mistaken for the current title where the revised title is required.
+
+### Author-approved naming sheet
+
+#### Gamori Bloodline / Dynasty
+- Matriarch: **Velmoraia Zeth Gamori**
+- Crimson Sovereign: **Serzeth Golachab Gamori**
+- Heiress of Ruin: **Myre Belphira Gamori**
+
+#### Cytry Dominion
+- Apex Leviathan Sovereign: **Kreska Thalosarn Cytry**
+- Younger Sister: **Vera Octavia Cytry**
+
+#### Satariel Sphere & Apex Sovereigns
+- Supreme General / Consort: **Estrise Vaelith Satariel**
+- Supreme Architect: **Azerak Zebulor** OR **Azerak Kharoveth** — unresolved; do not choose silently
+- Fallen Watcher / Rogue Governor: **Semyaxa**
+
+#### Local & counterpart cast
+- Issei Hyoudou counterpart: **Isamu Hojo**
+- Akeno Himejima counterpart: **Aione Shirogane**
+- Kiba Yuuto counterpart: **Renji Kurosawa**
+- Koneko Toujou counterpart: **Shiroha Kuze**
+- Kuroka counterpart: **Kuroha Kuze**
+- Katerea Leviathan counterpart: **Kalythia Rahab**
+- Rossweisse counterpart: **Ragna Hrafnsdottir** OR **Ragna Lindqvist** — unresolved; do not choose silently
+
+#### Ecclesiastical faction
+- Asia Argento counterpart: **Alessia Conti**
+- Xenovia Quarta counterpart: **Xenia Sforza**
+- Irina Shidou counterpart: **Iori Shindō** OR **Rina Tachibana** — unresolved; do not choose silently
+
+### Terminology direction
+The author has approved the designations **Bloodline / Dynasty**, **Dominion**, **Sphere**, and **Ecclesiastical Faction** as the current naming vocabulary. These are not to be flattened into generic noble-house terminology. Their exact constitutional, metaphysical, jurisdictional, and power-scaling meanings remain subject to source-grounded Lorekeeper review; do not invent those meanings from the labels alone.
+
+### Replacement and chapter-revision policy
+The author intends to revise selected existing chapters so the setting designation becomes **Soma** and the approved names/designations replace their former equivalents where applicable.
+
+This is a controlled revision, not a blind global find-and-replace:
+1. Preserve every original/published chapter artifact unchanged as historical source.
+2. Identify the exact chapter files and versions selected for revision before editing.
+3. Search for old setting terms, faction names, personal names, titles, dialogue references, narration, chapter headings, metadata, and implied geographic/cosmological references.
+4. Classify each occurrence as direct rename, context-dependent rewrite, historical/in-world quotation, or no change.
+5. Replace only where the new terminology is intended to refer to the same underlying person, place, group, or institution.
+6. Check grammar, possessives, demonyms, titles, character voice, POV knowledge, chronology, and downstream continuity after each chapter revision.
+7. Preserve source-to-revision provenance and record every changed artifact/version.
+8. Do not imply that a chapter has been revised until the revised text has been read back and validated.
+
+**No chapter has been authorized for blind replacement by this record.** The exact selected chapter list and current source versions remain to be established.
+
+### Open decisions
+- Azerak's surname: Zebulor vs Kharoveth.
+- Ragna's surname: Hrafnsdottir vs Lindqvist.
+- Irina counterpart's name: Iori Shindō vs Rina Tachibana.
+- Exact list of chapters to revise and their authoritative source versions.
+- Whether any legacy names remain in historical dialogue, documents, quotations, or in-world records after the main narrative adopts the new nomenclature.
+- The exact cosmological definitions and jurisdictional relationships implied by Dynasty, Dominion, Sphere, and Ecclesiastical Faction.
+
+### Execution guardrails
+- Do not change Jonah/Ira's identity or treat them as separate protagonists.
+- Do not infer character psychology, appearance, abilities, rank, or relationships solely from a new name/title.
+- Character design and psychology checks are a parallel revision workstream; they must be completed against actual character evidence.
+- Do not rename the original DxD counterpart characters in source-comparison notes; retain their counterpart mapping as recorded above.
+- Do not modify core cosmology or power-system records until Lorekeeper has checked existing definitions and the author has approved any substantive change.
+
+### Current state
+- Title and setting designation: AUTHOR-APPROVED FOR REVISION.
+- Listed faction designations and settled personal names: AUTHOR-APPROVED FOR REVISION.
+- Three alternative name choices: OPEN.
+- Selected chapter inventory: NOT YET PROVIDED.
+- Chapter replacements: NOT STARTED.
+- Lorekeeper compatibility review: PENDING.
