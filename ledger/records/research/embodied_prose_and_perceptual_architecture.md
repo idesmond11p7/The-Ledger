@@ -3,8 +3,8 @@
   "id": "embodied_prose_and_perceptual_architecture",
   "title": "Embodied Prose and Perceptual Architecture — Core Prose Engine & LLM Control Manual",
   "type": "research",
-  "createdAt": "2026-11-25T18:37:00+01:00",
-  "updatedAt": "2026-11-25T18:37:00+01:00",
+  "createdAt": "2026-11-25T21:14:00+01:00",
+  "updatedAt": "2026-11-25T21:14:00+01:00",
   "status": "active-doctrine",
   "tags": [
     "research",
