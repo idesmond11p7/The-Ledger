@@ -1,8 +1,36 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-26T12:59:00+01:00",
-  "documentCount": 13,
+  "updatedAt": "2026-11-26T13:01:00+01:00",
+  "documentCount": 14,
   "entries": [
+    {
+      "id": "research_receipt_ch7_micro_behavior_calibration",
+      "title": "Research Receipt — Chapter 7 Micro-Behavior & Line Calibration (Pass B Audited)",
+      "type": "research",
+      "status": "verified",
+      "filePath": "ledger/records/research/research_receipt_ch7_micro_behavior_calibration.md",
+      "createdAt": "2026-11-26T13:00:00+01:00",
+      "updatedAt": "2026-11-26T13:00:00+01:00",
+      "tags": [
+        "research",
+        "psychology",
+        "chapter-7",
+        "micro-behavior",
+        "dialogue-calibration",
+        "soma-academy",
+        "anti-trope",
+        "2005-japan"
+      ],
+      "source": "Psychologist Pass B output audited and continuity-synced against published Chapter 6 by Circulator for ForeverWorlds: Endless Apocrypha.",
+      "relatedDocIds": [
+        "research_receipt_soma_social_ecology_2005",
+        "research_receipt_spatial_scale_and_2005_kanagawa_ground_truth",
+        "embodied_prose_and_perceptual_architecture",
+        "chapter_06_the_mechanics_of_morning",
+        "chapter_07_the_examination"
+      ],
+      "charCount": 8398
+    },
     {
       "id": "research_receipt_soma_social_ecology_2005",
       "title": "Research Receipt — 2005 Elite Private Academy Social Ecology & Anti-Trope Calibration (Pass A Audited)",
