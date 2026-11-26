@@ -1,8 +1,66 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-08T10:59:00+01:00",
-  "documentCount": 10,
+  "updatedAt": "2026-11-26T11:01:00+01:00",
+  "documentCount": 12,
   "entries": [
+    {
+      "id": "embodied_prose_and_perceptual_architecture",
+      "title": "Embodied Prose and Perceptual Architecture — Core Prose Engine & LLM Control Manual",
+      "type": "research",
+      "status": "active-doctrine",
+      "filePath": "ledger/records/research/embodied_prose_and_perceptual_architecture.md",
+      "createdAt": "2026-11-25T21:14:00+01:00",
+      "updatedAt": "2026-11-25T21:14:00+01:00",
+      "tags": [
+        "research",
+        "prose-engine",
+        "cognitive-science",
+        "narratology",
+        "game-feel",
+        "hdr-audio",
+        "three-spatial-planes",
+        "llm-control",
+        "foreverworlds"
+      ],
+      "source": "Synthesized from refreshed Researcher monograph ('Embodied Prose and Perceptual Architecture') and audited by Circulator for ForeverWorlds: Endless Apocrypha.",
+      "relatedDocIds": [
+        "research_receipt_literary_narrative_methods",
+        "research_receipt_psycholinguistics_rhythm_typography",
+        "research_receipt_spatial_scale_and_2005_kanagawa_ground_truth",
+        "chapter_craft_fieldnotes_ch1_8"
+      ],
+      "charCount": 10682
+    },
+    {
+      "id": "research_receipt_spatial_scale_and_2005_kanagawa_ground_truth",
+      "title": "Research Receipt — Spatial Scale Architecture & 2005 Kanagawa/Tokyo Ground Truth (Audited)",
+      "type": "research",
+      "status": "verified",
+      "filePath": "ledger/records/research/research_receipt_spatial_scale_and_2005_kanagawa_ground_truth.md",
+      "createdAt": "2026-11-25T21:14:00+01:00",
+      "updatedAt": "2026-11-25T21:14:00+01:00",
+      "tags": [
+        "research",
+        "spatial-scale",
+        "oku",
+        "miegakure",
+        "stamps-2007",
+        "2005-japan",
+        "kanagawa",
+        "soma-academy",
+        "chapter-7",
+        "chapter-8",
+        "chapter-9"
+      ],
+      "source": "Circulator research cross-examined and corrected by refreshed Researcher; verified for ForeverWorlds: Endless Apocrypha Chapters 7–9.",
+      "relatedDocIds": [
+        "embodied_prose_and_perceptual_architecture",
+        "chapter_07_the_examination",
+        "chapter_08_the_architecture_of_waiting",
+        "chapter_09_current_published_material_20261108"
+      ],
+      "charCount": 4215
+    },
     {
       "id": "chapter_09_current_published_material_20261108",
       "title": "Chapter 9 — Current Published Material",
@@ -99,24 +157,25 @@
       "id": "chapter_06_the_mechanics_of_morning",
       "title": "Chapter 6: The Mechanics of Morning",
       "type": "chapter",
-      "status": "ready",
+      "status": "published-current",
       "filePath": "ledger/records/chapter/chapter_06_the_mechanics_of_morning.md",
       "createdAt": "2026-10-24T04:06:00.000Z",
-      "updatedAt": "2026-10-24T04:21:06.000Z",
+      "updatedAt": "2026-11-26T11:00:00+01:00",
       "tags": [
         "chapter-6",
         "ira-lowe",
-        "kuoh-academy",
-        "sona-sitri-cameo",
+        "soma-academy",
+        "vera-cameo",
         "entrance-exam",
-        "apocrypha-dxd"
+        "foreverworlds",
+        "endless-apocrypha"
       ],
-      "source": "Apocrypha DXD: Dragon × Deus — Forever by TheScribbleScript (Authoritative Chapter Dump)",
+      "source": "Published Scribble Hub text of Chapter 6 (ForeverWorlds: Endless Apocrypha), supplied by the author and synced to The-Ledger.",
       "relatedDocIds": [
         "chapter_05_a_second_morning",
         "chapter_07_the_examination"
       ],
-      "charCount": 35491
+      "charCount": 36318
     },
     {
       "id": "chapter_05_a_second_morning",
