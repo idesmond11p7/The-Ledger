@@ -1,8 +1,36 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-26T11:01:00+01:00",
-  "documentCount": 12,
+  "updatedAt": "2026-11-26T12:59:00+01:00",
+  "documentCount": 13,
   "entries": [
+    {
+      "id": "research_receipt_soma_social_ecology_2005",
+      "title": "Research Receipt — 2005 Elite Private Academy Social Ecology & Anti-Trope Calibration (Pass A Audited)",
+      "type": "research",
+      "status": "verified",
+      "filePath": "ledger/records/research/research_receipt_soma_social_ecology_2005.md",
+      "createdAt": "2026-11-26T12:58:00+01:00",
+      "updatedAt": "2026-11-26T12:58:00+01:00",
+      "tags": [
+        "research",
+        "psychology",
+        "social-ecology",
+        "soma-academy",
+        "2005-japan",
+        "anti-trope",
+        "kikokusei",
+        "chapter-7",
+        "chapter-8"
+      ],
+      "source": "Psychologist Pass A output audited and culturally calibrated by Circulator for ForeverWorlds: Endless Apocrypha.",
+      "relatedDocIds": [
+        "embodied_prose_and_perceptual_architecture",
+        "research_receipt_spatial_scale_and_2005_kanagawa_ground_truth",
+        "chapter_07_the_examination",
+        "chapter_08_the_architecture_of_waiting"
+      ],
+      "charCount": 5927
+    },
     {
       "id": "embodied_prose_and_perceptual_architecture",
       "title": "Embodied Prose and Perceptual Architecture — Core Prose Engine & LLM Control Manual",
